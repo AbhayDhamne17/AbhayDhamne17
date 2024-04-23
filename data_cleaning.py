@@ -13,4 +13,9 @@ df.set_index(['Date'], inplace=True)  # Set the 'Date' column as the index of th
 
 df.Budget.fillna(method='ffill', inplace=True)  # Fill missing values in the 'Budget' column with the last valid value
 df.Ad_Spend.fillna(method='bfill', inplace=True)  # Fill missing values in the 'Ad_Spend' column with the next valid value
+
+# Group the DataFrame 'df' by the 'Products' column and calculate the sum of 'Profit', 'Budget', and 'Ad_Spend' for each group
+Products_Group = df.groupby('Products')[['Profit', 'Budget', 'Ad_Spend']].sum()
+
+print(Products_Group)
 print(df)  # Print the cleaned DataFrame
