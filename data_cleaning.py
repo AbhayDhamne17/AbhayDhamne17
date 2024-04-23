@@ -6,7 +6,6 @@ import seaborn as sns  # Import the seaborn library for data visualization
 data = pd.read_csv('data.csv')  # Read the data from a CSV file into a pandas DataFrame
 df = pd.DataFrame(data)  # Create a DataFrame from the read data
 
-# Renaming the wrong column names
 df.rename(columns={'-01-08':'Products', '1600':'Date', '1':'Profit', '850':'Budget', '4':'Ad_Spend'}, inplace=True)  # Rename the columns with correct names
 df.sort_values(by=['Date'], inplace=True)  # Sort the DataFrame by the 'Date' column
 df.drop_duplicates(subset=['Date'], inplace=True)  # Drop duplicate rows based on the 'Date' column
