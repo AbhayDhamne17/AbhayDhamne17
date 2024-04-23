@@ -1,22 +1,17 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd  # Import the pandas library as pd for data manipulation
+import numpy as np  # Import the numpy library as np for numerical computations
+import matplotlib.pyplot as plt  # Import the matplotlib library for plotting
+import seaborn as sns  # Import the seaborn library for data visualization
 
-data = pd.read_csv('data.csv')
-df = pd.DataFrame(data)
-print(df)
+data = pd.read_csv('data.csv')  # Read the data from a CSV file into a pandas DataFrame
+df = pd.DataFrame(data)  # Create a DataFrame from the read data
 
-#for i in df.index:
-#    if df.loc[i, 'Duration'] > 60:
-#        df.loc[i, 'Duration'] = 60
-#df.dropna(subset=['Date'], inplace=True)
-#df.Date = pd.to_datetime(df.Date, format='mixed')
-#x = df.Calories.mean()
-#df.Calories.fillna(x, inplace=True)
-#df.Calories = df.Calories.round(2)
-#print(df)
+# Renaming the wrong column names
+df.rename(columns={'-01-08':'Products', '1600':'Date', '1':'Profit', '850':'Budget', '4':'Ad_Spend'}, inplace=True)  # Rename the columns with correct names
+df.sort_values(by=['Date'], inplace=True)  # Sort the DataFrame by the 'Date' column
+df.drop_duplicates(subset=['Date'], inplace=True)  # Drop duplicate rows based on the 'Date' column
+df.set_index(['Date'], inplace=True)  # Set the 'Date' column as the index of the DataFrame
 
-#df['Day'] = pd.DatetimeIndex(blackrock.Date).day_name()
-#df['Range'] = pd.cut(df['Duration'], bins=[10, 20, 30, 40, 50, 60], labels=['0-12', '13-24', '25-36', '37-48', '49-60'])
-#print(df)
+df.Budget.fillna(method='ffill', inplace=True)  # Fill missing values in the 'Budget' column with the last valid value
+df.Ad_Spend.fillna(method='bfill', inplace=True)  # Fill missing values in the 'Ad_Spend' column with the next valid value
+print(df)  # Print the cleaned DataFrame
