@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @AbhayDhamne17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AbhayDhamne17/AbhayDhamne17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Machine Learning, Deep Learning Etc.
+- 📫 You can reach me on LinkedIn: linkedin.com/in/abhay-dhamne-885586288
