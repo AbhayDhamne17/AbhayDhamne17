@@ -33,6 +33,7 @@ merge1_2_3 = pd.merge(merge1_2, merge3, on=merge1_2.index).set_index('key_0')
 # Create a new DataFrame using the merged data, renaming columns for clarity
 new_df = pd.DataFrame(data=merge1_2_3)
 new_df.rename(columns={'Profit_x':'Profit', 'Profit_y':'Profit_P', 'Budget_x':'Budget', 'Budget_y':'Budget_P', 'Ad_Spend_x':'Ad_Spend', 'Ad_Spend_y':'Ad_Spend_P'}, inplace=True)
+new_df.rename_axis('Products', inplace=True)
 
 # Round the Profit_P, Budget_P, and Ad_Spend_P columns to 2 decimal places
 new_df.Profit_P = new_df['Profit_P'].round(2)
