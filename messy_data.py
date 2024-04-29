@@ -77,7 +77,7 @@ plt.xlabel('Products')
 plt.show(bar3)
 
 more_ad_spend = df.query('Ad_Spend > Budget')[['Products', 'Ad_Spend', 'Budget']] # Dates when 'Ad_Spend' is greater than 'Budget'
-#more_ad_spend.set_index('Date', inplace=True) # Set the 'Date' column as the index of the DataFrame
+more_ad_spend.set_index('Date', inplace=True) # Set the 'Date' column as the index of the DataFrame
 more_ad_spend['Difference'] = more_ad_spend.Ad_Spend - more_ad_spend.Budget # Calculate the difference between Ad Spend and Budget
 spending_difference = more_ad_spend.sort_values(by=['Difference'], ascending=False) # Sort the DataFrame by the 'Difference' column in descending order
 spending_difference.Difference.idxmax() #The date when there was the highest difference between Advertisement Budget and Advertisement Spending.
