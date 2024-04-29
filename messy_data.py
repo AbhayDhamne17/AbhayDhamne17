@@ -99,3 +99,9 @@ plt.bar_label(bar3)
 # Display the legend and show the plot
 plt.legend()
 plt.show()
+
+# Correlation Analysis
+correlation_matrix = df[['Profit', 'Budget', 'Ad_Spend']].corr()  # Calculate the correlation matrix
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')  # Visualize the correlation matrix as a heatmap
+plt.title('Correlation Matrix')
+plt.show()
