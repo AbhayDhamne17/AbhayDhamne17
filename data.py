@@ -1,5 +1,42 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+data = pd.read_csv('data.csv')
+df = pd.DataFrame(data)
+df.sort_index(inplace=True)
+df.isnull()
+df.duplicated()
+print(df)
+
+df.set_index(['Date'], inplace=True)
+Products_Group = df.groupby('Product')[['Revenue', 'Expenses', 'Profit']].sum()
+print(Products_Group)
 
 
+
+# Identify products with expenses exceeding profit
+more_expenses = df.query('Expenses > Profit')[['Product', 'Expenses', 'Profit']]
+
+# Set the 'Date' column as the index
+#more_expenses.set_index('Date', inplace=True)
+
+# Calculate the difference between expenses and profit
+more_expenses['Difference'] = more_expenses['Expenses'] - more_expenses['Profit']
+
+# Sort products by spending difference in descending order
+spending_difference = more_expenses.sort_values(by=['Difference'], ascending=False)
+
+# Find the date with the highest spending difference
+max_spending_date = spending_difference.Difference.idxmax()
+max_spending_difference = spending_difference.Difference.max()
+
+# Print the results
+print(f"Date with the highest spending difference: {max_spending_date}")
+print(f"Maximum spending difference: {max_spending_difference}")
+print(spending_difference)
+-----------------
 
 # Calculate the percentage of profit contribution by each product
 bar1 = plt.bar(x=new_df.index, height=new_df.Profit_P, color='dodgerblue')
@@ -31,14 +68,6 @@ plt.yticks(z)
 plt.ylabel('Percentage')
 plt.xlabel('Products')
 plt.show(bar3)
-
-more_ad_spend = df.query('Ad_Spend > Budget')[['Products', 'Ad_Spend', 'Budget']] # Dates when 'Ad_Spend' is greater than 'Budget'
-more_ad_spend.set_index('Date', inplace=True) # Set the 'Date' column as the index of the DataFrame
-more_ad_spend['Difference'] = more_ad_spend.Ad_Spend - more_ad_spend.Budget # Calculate the difference between Ad Spend and Budget
-spending_difference = more_ad_spend.sort_values(by=['Difference'], ascending=False) # Sort the DataFrame by the 'Difference' column in descending order
-spending_difference.Difference.idxmax() #The date when there was the highest difference between Advertisement Budget and Advertisement Spending.
-print(spending_difference)
-#print(df)  # Print the cleaned DataFrame
 
 #Data Visualization
 
