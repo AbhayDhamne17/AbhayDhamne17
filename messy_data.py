@@ -32,7 +32,7 @@ merge3 = pd.merge(Products_Group.Ad_Spend, Products_By_Ad_Spend, on=Products_Gro
 merge1_2 = pd.merge(merge1, merge2, on=merge1.index).set_index('key_0')
 merge1_2_3 = pd.merge(merge1_2, merge3, on=merge1_2.index).set_index('key_0')
 
-# We can also use `pd.merge` to combine all three DataFrames in one step: "merged_df = pd.merge(merge1, merge2, merge3, left_index=True, right_index=True).set_index('key_0')" This approach is more concise and efficient, as it avoids the need to perform multiple merge operations.
+# We can also use 'pd.merge' to combine all three DataFrames in one step: "merged_df = pd.merge(merge1, merge2, merge3, left_index=True, right_index=True).set_index('key_0')" This approach is more concise and efficient, as it avoids the need to perform multiple merge operations.
 
 # Create a new DataFrame using the merged data, renaming columns for clarity
 new_df = pd.DataFrame(data=merge1_2_3)
