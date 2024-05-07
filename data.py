@@ -71,6 +71,13 @@ plt.ylabel('Percentage')
 plt.xlabel('Products')
 plt.show(bar3)
 
+print(f"Highest Profit: {Profit_P.idxmax()} generated the highest profit of ${Products_Group.Profit.max()} with a profit percentage of {Profit_P.max().round(2)}%")
+print(f"Lowest Profit: {Profit_P.idxmin()} generated the lowest profit of ${Products_Group.Profit.min()} with a profit percentage of {Profit_P.min().round(2)}%")
+print(f"Highest Expenses: {Expenses_P.idxmax()} had the highest expenses of ${Products_Group.Expenses.max()}")
+print(f"Lowest Expenses: {Expenses_P.idxmin()} had the lowest expenses of ${Products_Group.Expenses.min()}")
+print(f"Highest Revenue: {Revenue_P.idxmax()} generated the highest revenue of ${Products_Group.Revenue.max()}")
+print(f"Lowest Revenue: {Revenue_P.idxmin()} generated the lowest revenue of ${Products_Group.Revenue.min()}")
+
 #Data Visualization
 
 bar1 = plt.bar(x=Products_Group.index, height=Products_Group.Expenses, edgecolor='white', width=1, label='Expenses') # Create a bar plot showing Budget allocation for each product
