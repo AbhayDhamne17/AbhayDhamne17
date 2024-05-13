@@ -33,6 +33,7 @@ print("Overall probability of making a purchase of clothing:", p_clothing)
 print("Overall probability of making a purchase of watches:", p_watches)
 print("Overall probability of making a purchase of groceries:", p_groceries)
 
+#------------------------------------------------------------------------------------------------
 
 #probability Example 2
 
@@ -45,6 +46,7 @@ probability_of_4 = 1 / 6  # There's one 4 on the die
 print("Outcome:", outcome)
 print("Probability of rolling a 4:", probability_of_4)
 
+#------------------------------------------------------------------------------------------------
 
 #Complement Example 1
 
@@ -56,6 +58,7 @@ probability_blue_given_not_red = 3 / total_marbles * 100
 
 print("Probability of Blue:", probability_blue_given_not_red)
 
+#------------------------------------------------------------------------------------------------
 
 #Complement Example 2
 
@@ -64,6 +67,7 @@ p_not_heart = 1 - p_heart
 print("Probability of drawing a heart:", p_heart)
 print("Probability of not drawing a heart:", p_not_heart)
 
+#------------------------------------------------------------------------------------------------
 
 #Intersection Example
 
@@ -78,6 +82,7 @@ intersection_probability = probability_even * probability_greater_than_2
 
 print("Probability of rolling an even number and greater than 2:", intersection_probability)
 
+#------------------------------------------------------------------------------------------------
 
 #Union Example
 
@@ -86,6 +91,7 @@ union_probability = probability_even + probability_greater_than_2 - intersection
 
 print("Probability of rolling an even number or greater than 2:", union_probability)
 
+#------------------------------------------------------------------------------------------------
 
 #Probability Example 3
 
@@ -99,6 +105,7 @@ print(f"Probability of drawing a king (P(King)): {p_king}")
 print(f"Probability of drawing a heart or a king (P(Heart ∪ King)): {p_heart_or_king}")
 print(f"Probability of drawing a heart and a king (P(Heart ∩ King)): {p_heart_and_king}")
 
+#------------------------------------------------------------------------------------------------
 
 #Bayes' Theorem
 
@@ -120,6 +127,7 @@ P_Bag2_given_Blue = (P_Blue_given_Bag2 * P_Bag2) / P_Blue
 print("Probability of being from Bag 1 if the marble is blue:", P_Bag1_given_Blue*100)
 print("Probability of being from Bag 2 if the marble is blue:", P_Bag2_given_Blue*100)
 
+#------------------------------------------------------------------------------------------------
 
 #Probability Example 4
 
@@ -140,6 +148,7 @@ P_Spam_given_Free = (P_Free_given_Spam * P_Spam) / P_Free
 
 print(f"Probability of an email being spam if it contains 'free': {P_Spam_given_Free:.2f}")
 
+#------------------------------------------------------------------------------------------------
 
 #Probability Example 5
 
@@ -155,6 +164,7 @@ probability_of_car_from_box_2 = P_Box2*P_Car_given_Box2/total_pro
 print(probability_of_car_from_box_1*100)
 print(probability_of_car_from_box_2*100)
 
+#------------------------------------------------------------------------------------------------
 
 #Percentiles, quartiles, and the interquartile range (IQR)
 
@@ -176,6 +186,7 @@ print("75th percentile (Q3):", p75)
 IQR = p75 - p25
 print("Interquartile Range (IQR):", IQR)
 
+#------------------------------------------------------------------------------------------------
 
 #Variance, Standard Deviation, and Standard Error (SE)
 
@@ -204,6 +215,7 @@ SE = std_dev / np.sqrt(n)
 print(np.sqrt(n))
 print(f"Standard Error: {SE}")
 
+#------------------------------------------------------------------------------------------------
 
 #Causality, Covariance, and Correlation
 
@@ -231,6 +243,7 @@ plt.xlabel('Age (years)')
 plt.ylabel('Height (cm)')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Probability Mass Function (PMF)
 
@@ -255,6 +268,7 @@ plt.ylabel('Number of Friends Visiting')
 plt.title('My Lemonade Stand Visitors')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Probability Density Function (PDF)
 
@@ -275,6 +289,7 @@ plt.xlabel('Weight')
 plt.ylabel('Density')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Cumulative Distribution Function (CDF)
 
@@ -294,6 +309,7 @@ print(f'Cumulative_Value_Counts: {cumulative_value_counts}')
 cdf = cumulative_value_counts / len(data)*100
 print(cdf)
 
+#------------------------------------------------------------------------------------------------
 
 #Cumulative Distribution Function (CDF) Example 2
 
@@ -307,6 +323,7 @@ plt.ylabel('Cumulative Probability')
 plt.title('CDF of Delivery Times')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Continuous Probability Distribution
 #Uniform Distribution Example 1
@@ -331,6 +348,7 @@ plt.xlabel('Value')
 plt.ylabel('Frequency')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Uniform Distribution Example 2
 
@@ -345,6 +363,7 @@ plt.ylabel("Frequency")
 plt.xticks(range(1, 7))
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Uniform Distribution Example 3
 
@@ -357,6 +376,7 @@ sales_prices = np.random.uniform(10, 50, size=num_products)
 print(sales_prices)
 # Analyze revenue forecasts based on simulated sales data
 
+#------------------------------------------------------------------------------------------------
 
 #Normal/Gaussian Distribution
 
@@ -374,6 +394,7 @@ plt.xlabel('Value')
 plt.ylabel('Frequency')
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Exponential Distribution Example 1
 
@@ -393,6 +414,7 @@ plt.title('Interarrival Time Distribution')
 plt.grid(True)
 plt.show()
 
+#------------------------------------------------------------------------------------------------
 
 #Exponential Distribution Example 2
 
