@@ -1,0 +1,1001 @@
+Match ID,Tournament,Year,Round,Surface,Player 1 Name,Player 2 Name,Player 1 Rank,Player 2 Rank,Winner,Score,Match Duration
+M0000,French Open,2002,First Round,Hard,Daniil Becker,Novak Alcaraz,2,34,Daniil Becker,"7-5, 6-3, 6-1, 6-4",142
+M0001,Australian Open,2002,First Round,Clay,John McEnroe,Novak Medvedev,100,80,Novak Medvedev,"6-2, 6-0, 6-3, 6-1, 6-0",215
+M0002,US Open,2017,Third Round,Grass,John Murray,Andy McEnroe,49,68,John Murray,"6-2, 6-4, 6-0, 7-6, 6-1",116
+M0003,Wimbledon,2012,Semifinal,Grass,John Medvedev,Novak Sampras,71,85,John Medvedev,"6-3, 7-6, 6-3",145
+M0004,US Open,2008,Second Round,Clay,Stefanos McEnroe,Carlos Medvedev,30,7,Carlos Medvedev,"6-0, 7-5, 6-4",148
+M0005,Wimbledon,2018,Final,Hard,Andy Nadal,Carlos Sampras,96,65,Carlos Sampras,"6-1, 6-4, 6-4, 6-4",128
+M0006,Australian Open,2021,Final,Hard,Carlos Nadal,Stefanos Becker,98,65,Stefanos Becker,"6-0, 7-6, 6-0",108
+M0007,French Open,2021,First Round,Grass,Rafael Sampras,Andy Murray,54,81,Rafael Sampras,"6-3, 6-3, 6-3, 6-0",173
+M0008,Australian Open,2013,First Round,Hard,Roger Tsitsipas,Rafael Alcaraz,13,49,Roger Tsitsipas,"6-0, 7-6, 6-1, 6-0, 6-4",106
+M0009,Australian Open,2022,First Round,Grass,Novak Djokovic,Andy McEnroe,52,2,Andy McEnroe,"6-0, 6-1, 6-0",138
+M0010,Australian Open,2023,Third Round,Clay,John Alcaraz,Roger Nadal,95,2,Roger Nadal,"7-6, 6-4, 6-3, 6-4, 7-5",204
+M0011,Wimbledon,2000,Semifinal,Hard,Rafael Alcaraz,Novak Nadal,46,38,Novak Nadal,"6-1, 6-3, 6-1, 6-2, 6-0",103
+M0012,Australian Open,2013,Quarterfinal,Grass,Roger Murray,Boris Becker,58,34,Boris Becker,"6-0, 6-2, 7-5",169
+M0013,US Open,2020,Final,Clay,Boris Becker,Novak Murray,16,43,Boris Becker,"6-0, 6-4, 6-3",186
+M0014,Australian Open,2016,Second Round,Hard,Andy Sampras,Novak Alcaraz,91,61,Novak Alcaraz,"6-1, 6-1, 6-4, 6-0, 6-3",104
+M0015,Wimbledon,2012,First Round,Hard,Pete Sampras,Novak Nadal,31,39,Pete Sampras,"7-6, 6-2, 6-4, 6-3",128
+M0016,Australian Open,2002,Third Round,Hard,Carlos Federer,John Medvedev,30,50,Carlos Federer,"6-4, 6-2, 6-0, 7-5, 6-0",130
+M0017,French Open,2013,Third Round,Hard,Carlos McEnroe,Boris Sampras,59,53,Boris Sampras,"6-1, 6-0, 6-0, 6-4, 6-2",104
+M0018,Wimbledon,2004,Final,Hard,Daniil Federer,Roger Tsitsipas,15,40,Daniil Federer,"7-5, 6-2, 7-5, 6-4",136
+M0019,Wimbledon,2016,Third Round,Hard,John Nadal,Boris Tsitsipas,19,53,John Nadal,"6-3, 7-5, 6-2, 7-5",146
+M0020,Australian Open,2015,Second Round,Grass,Novak Djokovic,Roger Federer,22,18,Roger Federer,"6-1, 6-4, 7-5, 6-2, 7-5",100
+M0021,Australian Open,2012,Third Round,Grass,Novak Federer,Novak Murray,87,79,Novak Murray,"6-4, 6-1, 6-3, 6-4, 6-2",114
+M0022,French Open,2011,Second Round,Grass,Boris Murray,Rafael Sampras,45,60,Boris Murray,"6-1, 6-4, 6-0, 6-1, 7-6",135
+M0023,US Open,2001,Final,Clay,John Djokovic,Rafael Sampras,63,84,John Djokovic,"6-0, 7-6, 6-3",161
+M0024,US Open,2013,Second Round,Grass,Novak Tsitsipas,Carlos Alcaraz,59,62,Novak Tsitsipas,"7-6, 6-3, 6-2, 6-3",119
+M0025,French Open,2003,Final,Clay,Pete Medvedev,Boris Becker,16,40,Pete Medvedev,"6-2, 6-1, 6-0",151
+M0026,US Open,2008,Semifinal,Hard,Boris Murray,John Nadal,15,67,Boris Murray,"6-0, 7-6, 6-3, 6-3, 6-2",109
+M0027,Wimbledon,2008,Final,Grass,John Djokovic,Pete Alcaraz,86,26,Pete Alcaraz,"7-5, 6-2, 6-4, 7-6",141
+M0028,Wimbledon,2000,Final,Grass,Pete Nadal,Stefanos Djokovic,28,66,Pete Nadal,"7-6, 6-3, 6-3",104
+M0029,Wimbledon,2019,Final,Hard,Daniil Becker,Pete McEnroe,50,82,Daniil Becker,"7-6, 7-5, 6-3, 7-6, 6-4",147
+M0030,Wimbledon,2005,Third Round,Hard,Boris Medvedev,Boris Murray,34,24,Boris Murray,"6-1, 7-6, 6-0, 7-5, 6-1",133
+M0031,Wimbledon,2010,Quarterfinal,Hard,John McEnroe,Andy Becker,18,39,John McEnroe,"6-2, 7-5, 6-3",143
+M0032,US Open,2018,Final,Clay,Carlos McEnroe,Pete Tsitsipas,92,98,Carlos McEnroe,"6-1, 6-0, 6-3, 6-4",127
+M0033,US Open,2019,Second Round,Grass,Stefanos Nadal,Roger Medvedev,10,89,Stefanos Nadal,"6-0, 6-3, 6-2, 7-5",104
+M0034,Australian Open,2019,Final,Clay,Boris Federer,John Murray,73,67,John Murray,"6-1, 6-4, 6-3, 6-0",127
+M0035,Australian Open,2016,Second Round,Clay,Stefanos Alcaraz,Stefanos Medvedev,84,57,Stefanos Medvedev,"7-6, 6-3, 7-5, 6-0",151
+M0036,Australian Open,2017,Quarterfinal,Hard,Rafael Alcaraz,Rafael Nadal,65,49,Rafael Nadal,"6-2, 6-2, 6-3, 7-5",92
+M0037,Australian Open,2018,Quarterfinal,Hard,Daniil Federer,Boris Tsitsipas,48,72,Daniil Federer,"6-3, 6-2, 6-0, 6-0, 6-2",109
+M0038,US Open,2006,Second Round,Grass,Pete Nadal,John Medvedev,8,84,Pete Nadal,"6-3, 7-5, 7-6, 7-6, 6-4",174
+M0039,Australian Open,2006,First Round,Grass,John Medvedev,Stefanos Medvedev,67,29,Stefanos Medvedev,"6-2, 6-4, 6-1",176
+M0040,US Open,2010,Third Round,Hard,Stefanos Alcaraz,Rafael Nadal,42,25,Rafael Nadal,"6-1, 6-2, 6-3, 7-5",126
+M0041,US Open,2022,First Round,Clay,Stefanos Federer,Daniil Sampras,20,55,Stefanos Federer,"6-3, 6-2, 7-5",166
+M0042,Australian Open,2014,Second Round,Grass,Rafael Alcaraz,Andy McEnroe,79,82,Rafael Alcaraz,"6-0, 6-4, 6-4, 7-6",121
+M0043,US Open,2009,Final,Hard,Roger McEnroe,Boris Sampras,69,58,Boris Sampras,"6-1, 7-5, 6-2, 7-5, 7-6",99
+M0044,Australian Open,2016,Third Round,Grass,Pete Tsitsipas,Andy Tsitsipas,12,49,Pete Tsitsipas,"7-6, 6-3, 7-6, 6-3",111
+M0045,Wimbledon,2016,Semifinal,Grass,Andy Tsitsipas,Pete Nadal,97,96,Pete Nadal,"6-0, 6-4, 6-4, 6-4, 6-2",112
+M0046,US Open,2000,Second Round,Hard,Rafael Medvedev,Novak Djokovic,22,19,Novak Djokovic,"6-2, 6-0, 6-2, 7-6",120
+M0047,French Open,2001,Final,Hard,Novak Murray,Novak Becker,52,52,Novak Becker,"6-4, 6-3, 6-3, 7-5",121
+M0048,Wimbledon,2011,Third Round,Clay,Carlos Tsitsipas,Boris Alcaraz,89,52,Boris Alcaraz,"6-3, 6-3, 6-3, 7-5, 6-1",205
+M0049,Wimbledon,2012,Semifinal,Hard,Daniil Nadal,Stefanos Djokovic,41,54,Daniil Nadal,"6-2, 7-6, 6-2",138
+M0050,US Open,2007,Second Round,Hard,Pete Becker,Boris Murray,3,26,Pete Becker,"6-2, 6-2, 6-3",107
+M0051,US Open,2001,First Round,Hard,John Becker,John Djokovic,30,76,John Becker,"6-4, 6-1, 6-4",149
+M0052,US Open,2006,Third Round,Clay,Roger Sampras,Stefanos McEnroe,72,90,Roger Sampras,"6-0, 6-2, 6-4",236
+M0053,Australian Open,2021,Final,Clay,Pete Nadal,Andy Sampras,84,91,Pete Nadal,"6-1, 6-4, 7-6",120
+M0054,Australian Open,2009,Semifinal,Clay,Andy Becker,John Djokovic,7,3,John Djokovic,"7-5, 6-3, 6-3, 7-6",156
+M0055,Wimbledon,2003,Third Round,Hard,Novak McEnroe,Andy Djokovic,41,27,Andy Djokovic,"6-2, 6-1, 6-0",101
+M0056,French Open,2003,Quarterfinal,Hard,John Medvedev,Roger Murray,63,76,John Medvedev,"6-2, 6-1, 6-0, 6-4, 7-5",148
+M0057,US Open,2002,First Round,Clay,Pete Becker,Boris Murray,43,29,Boris Murray,"6-4, 6-2, 6-4, 6-4",237
+M0058,US Open,2004,First Round,Clay,Stefanos Murray,John Federer,36,59,Stefanos Murray,"7-6, 6-1, 7-5, 6-3, 6-0",179
+M0059,French Open,2000,Third Round,Grass,Rafael Federer,Rafael Federer,66,11,Rafael Federer,"6-0, 7-5, 6-3",142
+M0060,French Open,2018,Semifinal,Clay,Roger Becker,Novak McEnroe,56,84,Roger Becker,"6-1, 6-4, 7-6",173
+M0061,US Open,2015,First Round,Clay,John Medvedev,Rafael Sampras,67,32,Rafael Sampras,"6-1, 7-5, 6-2, 6-0, 6-2",167
+M0062,US Open,2002,Quarterfinal,Clay,Carlos Tsitsipas,Pete Medvedev,77,37,Pete Medvedev,"7-6, 7-5, 6-0",177
+M0063,Australian Open,2002,Semifinal,Hard,Roger Medvedev,Boris Nadal,86,27,Boris Nadal,"6-3, 6-4, 7-5, 6-4, 7-6",150
+M0064,Australian Open,2002,Quarterfinal,Clay,Roger McEnroe,Stefanos Tsitsipas,84,44,Stefanos Tsitsipas,"7-6, 6-0, 6-0, 6-4",167
+M0065,French Open,2015,Semifinal,Clay,Pete Medvedev,Stefanos Federer,37,1,Stefanos Federer,"6-0, 6-2, 6-3, 6-0",160
+M0066,Australian Open,2004,Quarterfinal,Hard,Stefanos Nadal,Pete McEnroe,10,3,Pete McEnroe,"6-3, 6-4, 6-3, 6-3",141
+M0067,Wimbledon,2018,Third Round,Hard,Boris Federer,Pete Federer,20,49,Boris Federer,"6-1, 6-2, 6-4, 6-3, 6-2",146
+M0068,French Open,2022,Third Round,Hard,John Djokovic,Roger Federer,38,60,John Djokovic,"7-6, 6-1, 6-4, 6-1, 6-3",105
+M0069,Wimbledon,2009,Third Round,Clay,Boris Nadal,Daniil Alcaraz,66,21,Daniil Alcaraz,"6-0, 6-3, 6-0",204
+M0070,US Open,2022,First Round,Clay,John Sampras,Boris Sampras,71,24,Boris Sampras,"7-5, 6-1, 6-0, 6-1, 6-3",181
+M0071,Wimbledon,2016,Second Round,Hard,Andy Sampras,Boris Alcaraz,57,41,Boris Alcaraz,"7-6, 6-1, 6-0",124
+M0072,US Open,2021,Second Round,Clay,Boris Nadal,Roger Becker,47,34,Roger Becker,"6-3, 6-1, 7-5, 7-6, 7-5",178
+M0073,Australian Open,2015,Semifinal,Hard,Novak Alcaraz,Stefanos Becker,46,94,Novak Alcaraz,"6-4, 6-0, 6-0, 6-3, 6-3",100
+M0074,French Open,2007,Final,Hard,Daniil Murray,Pete Sampras,60,89,Daniil Murray,"7-6, 7-5, 6-1, 6-1",91
+M0075,US Open,2023,Semifinal,Clay,Novak Medvedev,Carlos Nadal,12,56,Novak Medvedev,"7-6, 6-2, 7-6, 6-1, 6-0",225
+M0076,French Open,2010,First Round,Grass,Boris Tsitsipas,Daniil Becker,29,86,Boris Tsitsipas,"6-2, 7-5, 6-2, 6-1",137
+M0077,Wimbledon,2006,Final,Grass,Boris Becker,Boris Becker,15,27,Boris Becker,"7-5, 6-0, 6-2, 6-3",161
+M0078,French Open,2022,First Round,Hard,Carlos Becker,Boris Becker,39,67,Carlos Becker,"6-4, 6-1, 6-3",128
+M0079,Australian Open,2000,Third Round,Clay,Stefanos McEnroe,Daniil Djokovic,58,69,Stefanos McEnroe,"6-2, 6-0, 6-3, 6-1, 6-0",183
+M0080,Australian Open,2012,Second Round,Grass,Pete Nadal,Rafael Nadal,41,84,Pete Nadal,"6-2, 6-4, 7-5, 6-1",178
+M0081,Australian Open,2021,Second Round,Clay,Pete McEnroe,Pete Becker,75,26,Pete Becker,"6-1, 6-4, 6-2, 7-5",200
+M0082,US Open,2011,Third Round,Clay,Rafael Medvedev,Stefanos Nadal,58,88,Rafael Medvedev,"7-6, 6-3, 6-0, 7-6",164
+M0083,Australian Open,2015,First Round,Hard,Carlos Sampras,Stefanos Federer,21,91,Carlos Sampras,"6-4, 6-3, 6-4, 6-2, 6-2",117
+M0084,Australian Open,2012,Quarterfinal,Grass,Carlos Murray,Daniil Alcaraz,16,34,Carlos Murray,"6-3, 7-5, 6-3, 6-2, 6-4",167
+M0085,US Open,2008,Semifinal,Grass,Andy Federer,Novak Alcaraz,82,58,Novak Alcaraz,"6-4, 6-0, 6-3, 7-6, 6-0",135
+M0086,US Open,2003,Final,Hard,Stefanos Medvedev,John Alcaraz,95,83,John Alcaraz,"6-3, 6-2, 7-5, 6-1",119
+M0087,Australian Open,2014,Quarterfinal,Hard,Boris Murray,Roger Federer,96,47,Roger Federer,"6-1, 6-0, 6-0, 6-0",121
+M0088,Wimbledon,2008,Third Round,Grass,Daniil Nadal,Rafael Nadal,3,93,Daniil Nadal,"6-3, 6-0, 6-4",154
+M0089,Wimbledon,2013,Quarterfinal,Clay,John Murray,Rafael Nadal,1,8,John Murray,"7-5, 7-6, 7-6, 6-2",120
+M0090,Australian Open,2007,Third Round,Clay,John Medvedev,Pete Tsitsipas,8,12,John Medvedev,"6-1, 6-4, 6-3",156
+M0091,US Open,2017,Quarterfinal,Hard,Rafael Alcaraz,Novak McEnroe,14,92,Rafael Alcaraz,"6-4, 6-3, 6-0, 7-5, 6-0",118
+M0092,Wimbledon,2018,Quarterfinal,Clay,Roger Djokovic,Andy Medvedev,3,33,Roger Djokovic,"7-6, 6-1, 6-3, 7-5, 6-4",158
+M0093,Australian Open,2021,First Round,Hard,Carlos Becker,Pete McEnroe,56,68,Carlos Becker,"7-5, 6-0, 6-4, 7-6",103
+M0094,Australian Open,2014,Final,Hard,Carlos Sampras,Stefanos Murray,26,75,Carlos Sampras,"6-4, 6-4, 7-6, 7-5",98
+M0095,Wimbledon,2011,First Round,Clay,Roger Djokovic,John McEnroe,11,61,Roger Djokovic,"7-5, 6-2, 6-0, 7-5",135
+M0096,Wimbledon,2019,Second Round,Grass,John Federer,Stefanos Murray,40,40,Stefanos Murray,"7-5, 6-2, 6-4",175
+M0097,French Open,2000,Final,Hard,Novak Sampras,Roger McEnroe,85,6,Roger McEnroe,"6-3, 6-0, 7-6",146
+M0098,US Open,2000,Quarterfinal,Hard,Daniil Becker,Rafael Federer,98,57,Rafael Federer,"7-6, 7-5, 6-1, 6-4, 6-2",100
+M0099,French Open,2006,Semifinal,Hard,Andy McEnroe,Novak Tsitsipas,86,47,Novak Tsitsipas,"7-5, 6-3, 6-3, 7-5, 6-3",150
+M0100,Australian Open,2007,Second Round,Grass,Andy Nadal,John Federer,79,64,John Federer,"6-2, 6-2, 7-6, 6-4",171
+M0101,Wimbledon,2016,Second Round,Clay,John Djokovic,Daniil Becker,39,69,John Djokovic,"7-5, 6-1, 7-5, 7-5",167
+M0102,Wimbledon,2001,Quarterfinal,Grass,Novak Tsitsipas,Pete Nadal,20,5,Pete Nadal,"6-1, 7-6, 7-5, 6-2, 6-3",132
+M0103,US Open,2021,Quarterfinal,Clay,Carlos Tsitsipas,Roger McEnroe,11,79,Carlos Tsitsipas,"6-3, 7-6, 7-6",161
+M0104,Australian Open,2002,Semifinal,Hard,Stefanos Federer,John Alcaraz,44,40,John Alcaraz,"6-0, 6-1, 7-5",147
+M0105,French Open,2023,Third Round,Hard,Rafael Medvedev,Stefanos Becker,16,33,Rafael Medvedev,"7-6, 6-1, 6-1",149
+M0106,US Open,2007,Second Round,Grass,Stefanos Djokovic,John Federer,51,51,John Federer,"7-5, 6-2, 6-1, 7-5, 6-2",178
+M0107,Australian Open,2000,Semifinal,Hard,Roger Sampras,Rafael McEnroe,57,93,Roger Sampras,"6-1, 6-2, 6-4, 6-2, 6-0",108
+M0108,Australian Open,2008,Quarterfinal,Hard,Rafael McEnroe,Carlos Sampras,28,40,Rafael McEnroe,"6-1, 6-0, 6-0",121
+M0109,French Open,2016,Quarterfinal,Clay,Rafael Becker,Carlos Becker,73,9,Carlos Becker,"7-6, 6-3, 6-3, 7-5",174
+M0110,French Open,2007,Third Round,Grass,Rafael Medvedev,Roger Alcaraz,23,44,Rafael Medvedev,"7-5, 6-2, 6-0, 7-5, 7-5",134
+M0111,Wimbledon,2018,Final,Hard,Stefanos Becker,Roger Nadal,33,41,Stefanos Becker,"7-6, 6-1, 7-6, 6-3, 7-6",97
+M0112,Wimbledon,2014,Final,Clay,Daniil Murray,Novak McEnroe,98,49,Novak McEnroe,"6-0, 6-3, 7-5, 7-6, 6-0",231
+M0113,Australian Open,2017,Final,Clay,Carlos Djokovic,Boris Djokovic,51,58,Carlos Djokovic,"6-4, 6-3, 6-3, 6-2",149
+M0114,French Open,2006,Quarterfinal,Grass,Daniil Alcaraz,Novak Murray,15,84,Daniil Alcaraz,"7-5, 7-5, 6-0",162
+M0115,US Open,2023,Third Round,Grass,Novak Federer,John Djokovic,4,84,Novak Federer,"6-2, 7-6, 7-6, 6-2",140
+M0116,Australian Open,2012,Third Round,Grass,Daniil Murray,Boris Alcaraz,52,59,Daniil Murray,"7-5, 7-6, 6-3, 6-0, 7-5",152
+M0117,Wimbledon,2000,Quarterfinal,Hard,Pete Federer,Roger Medvedev,69,46,Roger Medvedev,"6-1, 6-3, 7-6, 6-4, 6-3",146
+M0118,French Open,2003,First Round,Clay,Pete Federer,Daniil Medvedev,57,72,Pete Federer,"6-1, 7-5, 6-1, 6-1, 6-4",130
+M0119,Australian Open,2023,Final,Hard,Novak Murray,Carlos Alcaraz,19,88,Novak Murray,"6-1, 6-4, 6-2, 7-5",123
+M0120,Australian Open,2001,Second Round,Grass,Pete Djokovic,Roger Sampras,16,56,Pete Djokovic,"7-6, 6-4, 6-1, 6-3",180
+M0121,Wimbledon,2011,Third Round,Hard,Rafael Sampras,Andy Murray,62,31,Andy Murray,"7-5, 6-1, 7-6, 7-6",135
+M0122,Wimbledon,2023,First Round,Grass,Pete Tsitsipas,Daniil Alcaraz,84,86,Pete Tsitsipas,"6-3, 6-3, 6-4",105
+M0123,French Open,2021,Final,Grass,John Medvedev,Andy Tsitsipas,13,32,John Medvedev,"6-1, 6-0, 7-5, 6-0",151
+M0124,Australian Open,2017,Third Round,Grass,Carlos Djokovic,Daniil Djokovic,93,83,Daniil Djokovic,"7-5, 6-4, 6-4, 7-6",114
+M0125,Australian Open,2020,First Round,Hard,John McEnroe,Carlos Tsitsipas,51,58,John McEnroe,"6-4, 7-6, 6-3, 6-4, 7-6",114
+M0126,US Open,2009,Semifinal,Grass,Novak Sampras,John Becker,5,31,Novak Sampras,"6-4, 6-3, 6-3",173
+M0127,Australian Open,2010,First Round,Hard,Boris Federer,Andy Alcaraz,19,31,Boris Federer,"6-4, 6-2, 6-0",122
+M0128,French Open,2019,Quarterfinal,Hard,Andy Nadal,Andy Nadal,12,73,Andy Nadal,"6-1, 6-0, 7-5, 6-3",137
+M0129,French Open,2022,Final,Hard,Daniil McEnroe,Rafael Djokovic,89,15,Rafael Djokovic,"6-3, 6-1, 6-0",108
+M0130,Australian Open,2003,Third Round,Hard,Pete McEnroe,John Becker,49,28,John Becker,"6-2, 7-5, 6-2, 7-5",127
+M0131,Australian Open,2012,Second Round,Clay,Carlos Murray,Daniil Sampras,35,48,Carlos Murray,"6-4, 7-6, 6-2",223
+M0132,US Open,2012,Second Round,Grass,Stefanos Alcaraz,Boris Federer,33,34,Stefanos Alcaraz,"6-3, 7-5, 6-3",118
+M0133,Australian Open,2001,Final,Clay,Daniil Medvedev,Novak Alcaraz,57,92,Daniil Medvedev,"7-5, 6-3, 6-0",181
+M0134,Wimbledon,2006,Final,Grass,Pete Djokovic,Carlos Sampras,74,33,Carlos Sampras,"6-3, 6-1, 6-3, 6-2, 6-1",130
+M0135,French Open,2007,Semifinal,Clay,Roger Nadal,Carlos Murray,84,76,Carlos Murray,"7-5, 6-1, 6-3, 6-0, 6-0",180
+M0136,Wimbledon,2009,First Round,Hard,Novak Djokovic,Daniil McEnroe,46,66,Novak Djokovic,"6-1, 6-4, 6-2",106
+M0137,Australian Open,2010,Third Round,Clay,Andy Tsitsipas,Pete Federer,1,15,Andy Tsitsipas,"6-4, 7-5, 6-0, 6-1, 6-1",220
+M0138,Wimbledon,2019,Quarterfinal,Grass,Pete Becker,Daniil Alcaraz,1,93,Pete Becker,"6-4, 6-4, 7-6",175
+M0139,US Open,2010,Quarterfinal,Grass,Andy Djokovic,John Alcaraz,49,93,Andy Djokovic,"6-4, 7-5, 6-4",141
+M0140,French Open,2017,First Round,Clay,Novak Medvedev,Rafael Medvedev,70,51,Rafael Medvedev,"6-3, 6-3, 6-3",157
+M0141,Australian Open,2003,Final,Grass,Novak Tsitsipas,Pete Nadal,46,98,Novak Tsitsipas,"6-1, 6-4, 6-1",152
+M0142,Australian Open,2000,Quarterfinal,Grass,Daniil Tsitsipas,Pete Medvedev,54,12,Pete Medvedev,"6-4, 6-2, 6-1, 6-3, 7-5",137
+M0143,French Open,2012,Third Round,Hard,John Djokovic,Pete Medvedev,44,74,John Djokovic,"6-0, 6-4, 6-3",125
+M0144,Wimbledon,2011,Final,Hard,Roger McEnroe,Novak Alcaraz,59,4,Novak Alcaraz,"7-6, 6-0, 7-6, 6-3",95
+M0145,US Open,2013,Second Round,Clay,Stefanos Medvedev,John McEnroe,42,41,John McEnroe,"6-2, 6-3, 7-6, 6-0",231
+M0146,Wimbledon,2005,Quarterfinal,Hard,Daniil Federer,Roger Tsitsipas,92,42,Roger Tsitsipas,"6-1, 7-6, 7-6",93
+M0147,Wimbledon,2009,Third Round,Clay,Rafael McEnroe,Carlos Alcaraz,47,4,Carlos Alcaraz,"6-0, 6-4, 7-6, 6-0",161
+M0148,French Open,2003,Third Round,Hard,John Alcaraz,Roger Medvedev,74,15,Roger Medvedev,"6-1, 6-0, 6-1, 7-5",126
+M0149,Wimbledon,2017,Second Round,Grass,Rafael Alcaraz,Novak Alcaraz,87,45,Novak Alcaraz,"6-2, 6-4, 6-4",146
+M0150,Australian Open,2002,Second Round,Clay,Carlos Nadal,Boris Sampras,67,34,Boris Sampras,"6-1, 6-0, 6-4",223
+M0151,Wimbledon,2020,Quarterfinal,Hard,Carlos Medvedev,Daniil Djokovic,94,93,Daniil Djokovic,"6-0, 7-5, 6-4, 7-5, 7-5",102
+M0152,Wimbledon,2009,Second Round,Hard,Daniil Tsitsipas,Pete Tsitsipas,59,5,Pete Tsitsipas,"6-4, 6-1, 6-0",106
+M0153,Australian Open,2004,Final,Hard,Roger McEnroe,Boris Medvedev,65,51,Boris Medvedev,"7-5, 6-2, 6-2, 6-1, 7-6",93
+M0154,French Open,2013,Quarterfinal,Clay,Andy Federer,Roger Nadal,4,51,Andy Federer,"6-3, 6-0, 7-6, 6-1",149
+M0155,US Open,2022,Third Round,Hard,Roger Tsitsipas,Boris Djokovic,20,55,Roger Tsitsipas,"6-0, 7-5, 6-2, 6-2",105
+M0156,US Open,2021,Semifinal,Hard,Carlos Tsitsipas,Carlos Becker,73,100,Carlos Tsitsipas,"6-3, 6-2, 7-5",146
+M0157,Australian Open,2003,Semifinal,Hard,Rafael Federer,Stefanos Becker,97,71,Stefanos Becker,"6-1, 7-6, 7-5",105
+M0158,French Open,2014,Semifinal,Grass,Roger Nadal,John Federer,10,53,Roger Nadal,"6-2, 6-4, 6-1, 7-5, 6-3",173
+M0159,French Open,2012,First Round,Grass,Roger McEnroe,Rafael Murray,79,72,Rafael Murray,"6-1, 6-2, 6-2",140
+M0160,French Open,2016,Second Round,Hard,Pete Murray,Rafael Federer,32,88,Pete Murray,"7-5, 7-6, 6-3, 6-4",94
+M0161,US Open,2007,Semifinal,Hard,Novak Becker,Rafael Federer,40,69,Novak Becker,"7-5, 6-2, 6-2",144
+M0162,US Open,2015,First Round,Clay,Andy Sampras,John Federer,93,62,John Federer,"6-1, 7-6, 6-0",175
+M0163,Australian Open,2000,Quarterfinal,Grass,Andy Medvedev,Stefanos Becker,7,88,Andy Medvedev,"6-2, 7-6, 6-3",176
+M0164,Wimbledon,2023,Quarterfinal,Grass,Carlos Nadal,Boris Becker,93,21,Boris Becker,"6-4, 7-5, 6-2",161
+M0165,Wimbledon,2005,First Round,Clay,Carlos Nadal,Pete McEnroe,89,95,Carlos Nadal,"7-6, 7-6, 6-0",170
+M0166,Wimbledon,2005,First Round,Clay,Carlos Becker,Novak Becker,8,38,Carlos Becker,"6-3, 6-3, 6-2, 6-3, 6-0",205
+M0167,US Open,2006,Semifinal,Hard,Carlos Becker,Stefanos Sampras,68,77,Carlos Becker,"7-5, 6-4, 6-1",133
+M0168,Wimbledon,2022,Quarterfinal,Hard,Rafael Sampras,Novak McEnroe,92,26,Novak McEnroe,"6-1, 6-3, 7-5, 6-1",149
+M0169,Wimbledon,2021,First Round,Hard,Novak Alcaraz,Stefanos Medvedev,12,31,Novak Alcaraz,"6-4, 6-1, 6-4",117
+M0170,Wimbledon,2021,Second Round,Hard,Carlos Djokovic,John Tsitsipas,84,94,Carlos Djokovic,"6-1, 6-0, 6-0, 6-4",99
+M0171,Wimbledon,2003,First Round,Clay,Andy McEnroe,Novak Medvedev,51,62,Andy McEnroe,"6-1, 6-3, 7-6, 7-5, 6-4",214
+M0172,Australian Open,2018,Third Round,Grass,Pete McEnroe,Daniil Djokovic,68,61,Daniil Djokovic,"7-5, 6-4, 6-1, 6-2",161
+M0173,US Open,2015,Final,Hard,Stefanos Becker,Rafael Becker,28,11,Rafael Becker,"7-5, 6-0, 6-3, 6-2, 6-3",119
+M0174,French Open,2008,Final,Clay,Rafael Murray,Novak Djokovic,64,82,Rafael Murray,"6-3, 7-6, 6-0",236
+M0175,Australian Open,2000,Second Round,Grass,Carlos Djokovic,Daniil Alcaraz,34,7,Daniil Alcaraz,"7-6, 6-4, 7-5, 6-1",171
+M0176,Australian Open,2019,First Round,Clay,Pete Sampras,Stefanos Tsitsipas,31,9,Stefanos Tsitsipas,"7-5, 6-4, 7-5, 6-1, 7-6",205
+M0177,Australian Open,2015,Third Round,Hard,Carlos Becker,Andy Tsitsipas,33,82,Carlos Becker,"6-3, 7-5, 7-5, 6-4, 6-1",95
+M0178,Australian Open,2018,Final,Hard,Daniil Medvedev,Daniil Medvedev,89,69,Daniil Medvedev,"6-2, 6-2, 6-0, 6-3",132
+M0179,Wimbledon,2011,Third Round,Grass,Rafael Becker,Novak Medvedev,79,51,Novak Medvedev,"6-0, 7-5, 7-5",142
+M0180,Wimbledon,2019,Second Round,Grass,John Sampras,Daniil Becker,78,97,John Sampras,"6-4, 6-3, 6-0, 6-3",162
+M0181,French Open,2002,Semifinal,Clay,Rafael Becker,Stefanos Becker,82,74,Stefanos Becker,"6-2, 6-3, 7-6, 7-6",169
+M0182,Wimbledon,2001,First Round,Clay,Novak Djokovic,Novak Medvedev,25,32,Novak Djokovic,"6-3, 7-5, 6-1",207
+M0183,French Open,2020,Second Round,Grass,Rafael Medvedev,Andy McEnroe,82,58,Andy McEnroe,"6-3, 6-1, 6-4, 6-2",147
+M0184,Wimbledon,2021,Final,Clay,Boris Alcaraz,Carlos Becker,33,40,Boris Alcaraz,"6-4, 6-4, 6-3, 7-6",163
+M0185,French Open,2019,Semifinal,Clay,Daniil Becker,Stefanos Becker,39,22,Stefanos Becker,"6-4, 7-5, 6-1",167
+M0186,Australian Open,2002,Semifinal,Clay,John Federer,Daniil Sampras,66,39,Daniil Sampras,"6-3, 6-3, 6-0",122
+M0187,US Open,2002,Quarterfinal,Hard,Daniil Medvedev,Rafael Becker,7,19,Daniil Medvedev,"6-1, 6-0, 6-1, 6-4",95
+M0188,French Open,2010,Second Round,Clay,John Tsitsipas,Andy Djokovic,52,27,Andy Djokovic,"7-6, 6-0, 6-1, 6-0",213
+M0189,Australian Open,2003,Final,Grass,Pete Medvedev,Boris Murray,40,81,Pete Medvedev,"6-0, 6-3, 7-6",110
+M0190,Australian Open,2004,Semifinal,Grass,Pete McEnroe,Stefanos Alcaraz,88,1,Stefanos Alcaraz,"7-6, 6-1, 6-1, 6-2, 6-2",107
+M0191,French Open,2000,Quarterfinal,Grass,Novak Djokovic,Pete Becker,59,76,Novak Djokovic,"6-1, 6-4, 7-6, 6-1, 7-6",106
+M0192,French Open,2003,Semifinal,Hard,Carlos Alcaraz,Rafael Federer,96,60,Rafael Federer,"6-0, 6-4, 6-0, 6-0, 6-0",145
+M0193,French Open,2009,Third Round,Clay,Stefanos Nadal,Roger Alcaraz,13,85,Stefanos Nadal,"6-3, 6-3, 6-3, 7-5, 7-6",220
+M0194,French Open,2023,Third Round,Clay,Daniil Murray,Stefanos Tsitsipas,32,56,Daniil Murray,"7-6, 6-1, 6-4",186
+M0195,French Open,2006,Third Round,Clay,Novak Sampras,John Nadal,62,80,Novak Sampras,"6-3, 7-5, 7-6, 7-5, 6-0",131
+M0196,Wimbledon,2005,Semifinal,Hard,Roger Becker,Pete Tsitsipas,55,94,Roger Becker,"7-5, 7-6, 7-6, 7-6, 7-5",100
+M0197,French Open,2011,Second Round,Clay,Novak Sampras,Stefanos Becker,18,10,Stefanos Becker,"6-2, 6-3, 7-5, 6-0",188
+M0198,French Open,2009,Final,Grass,Daniil Tsitsipas,Carlos Sampras,63,21,Carlos Sampras,"6-1, 6-3, 7-6, 6-3, 6-1",176
+M0199,Wimbledon,2010,Final,Clay,Stefanos Djokovic,Pete Djokovic,65,2,Pete Djokovic,"6-1, 6-2, 7-5, 6-0",229
+M0200,Australian Open,2023,Final,Grass,Pete Djokovic,John McEnroe,88,64,John McEnroe,"6-2, 6-1, 6-4, 6-1",104
+M0201,Australian Open,2023,Second Round,Grass,Andy Alcaraz,Andy McEnroe,66,22,Andy McEnroe,"6-0, 6-2, 6-4, 6-3",123
+M0202,US Open,2003,Third Round,Hard,Daniil Murray,Pete Djokovic,46,56,Daniil Murray,"7-6, 7-6, 6-3",144
+M0203,Australian Open,2009,Third Round,Hard,Daniil Djokovic,Roger Federer,33,71,Daniil Djokovic,"6-1, 6-2, 6-2",147
+M0204,US Open,2013,First Round,Grass,Carlos Djokovic,Stefanos Becker,4,31,Carlos Djokovic,"6-3, 6-4, 6-3, 6-2, 6-2",146
+M0205,US Open,2005,Semifinal,Clay,Rafael McEnroe,Boris McEnroe,82,8,Boris McEnroe,"6-1, 6-2, 7-6, 6-3",199
+M0206,Wimbledon,2006,Final,Hard,Novak Sampras,John Tsitsipas,58,58,John Tsitsipas,"7-5, 6-0, 6-1, 6-1, 6-3",108
+M0207,Wimbledon,2013,Second Round,Grass,Pete Becker,Pete Tsitsipas,78,77,Pete Tsitsipas,"6-4, 6-3, 7-5",144
+M0208,Australian Open,2002,First Round,Clay,John McEnroe,Roger Djokovic,16,54,John McEnroe,"6-0, 6-1, 6-0",233
+M0209,Australian Open,2020,Third Round,Clay,Carlos Medvedev,Boris Djokovic,5,13,Carlos Medvedev,"6-1, 7-5, 6-2",125
+M0210,Australian Open,2019,Third Round,Hard,John Murray,Pete Djokovic,61,79,John Murray,"7-6, 7-5, 6-1, 6-2, 6-0",128
+M0211,Wimbledon,2005,First Round,Hard,Roger Murray,Pete Becker,59,72,Roger Murray,"6-3, 7-5, 6-4, 6-2, 6-3",96
+M0212,US Open,2010,Final,Hard,Carlos McEnroe,Rafael Alcaraz,85,2,Rafael Alcaraz,"7-5, 7-5, 7-6",136
+M0213,Wimbledon,2012,Final,Hard,Novak McEnroe,John Nadal,71,82,Novak McEnroe,"6-1, 7-6, 6-4",128
+M0214,French Open,2005,Third Round,Grass,Daniil Sampras,Boris Murray,62,82,Daniil Sampras,"6-2, 6-3, 6-4, 7-5, 6-4",157
+M0215,US Open,2019,First Round,Clay,Boris Medvedev,Carlos Federer,52,53,Boris Medvedev,"7-5, 6-0, 6-0, 6-2, 6-2",232
+M0216,Australian Open,2008,First Round,Clay,Carlos Murray,Andy Sampras,91,36,Andy Sampras,"6-1, 6-3, 6-0, 6-4",202
+M0217,US Open,2023,Third Round,Hard,Stefanos McEnroe,Boris Sampras,77,72,Boris Sampras,"6-3, 6-2, 6-3, 6-2",112
+M0218,US Open,2010,Final,Grass,Daniil Becker,Carlos Alcaraz,4,48,Daniil Becker,"6-0, 6-2, 6-1, 7-5",159
+M0219,Australian Open,2004,First Round,Clay,Boris Tsitsipas,Boris Becker,27,88,Boris Tsitsipas,"6-1, 6-0, 6-1",174
+M0220,US Open,2020,Semifinal,Hard,Boris Murray,John Medvedev,43,29,John Medvedev,"6-2, 7-6, 7-6, 6-2, 6-4",125
+M0221,US Open,2008,Quarterfinal,Clay,Carlos Murray,Novak Federer,98,3,Novak Federer,"6-3, 7-6, 7-6, 7-6",163
+M0222,Wimbledon,2023,Quarterfinal,Clay,Boris Murray,Andy McEnroe,96,4,Andy McEnroe,"6-0, 6-1, 6-4, 6-0, 6-1",235
+M0223,French Open,2003,Second Round,Hard,Andy Djokovic,Rafael Medvedev,73,2,Rafael Medvedev,"7-5, 7-5, 7-5, 6-4, 6-4",133
+M0224,US Open,2005,First Round,Clay,Novak Sampras,Daniil Djokovic,12,8,Daniil Djokovic,"6-4, 6-0, 6-3, 7-5, 6-2",179
+M0225,US Open,2003,Second Round,Grass,Daniil Nadal,Andy Sampras,62,7,Andy Sampras,"6-3, 6-2, 6-3",167
+M0226,Australian Open,2011,First Round,Hard,Rafael Alcaraz,Daniil Alcaraz,63,25,Daniil Alcaraz,"6-1, 6-1, 6-3",94
+M0227,French Open,2013,Semifinal,Clay,Boris Djokovic,John McEnroe,5,76,Boris Djokovic,"6-3, 6-2, 6-2",178
+M0228,Australian Open,2021,Second Round,Clay,Roger Tsitsipas,Rafael Nadal,11,21,Roger Tsitsipas,"6-4, 6-0, 6-2, 6-1, 7-5",233
+M0229,US Open,2007,Quarterfinal,Clay,Novak Alcaraz,Roger Djokovic,73,3,Roger Djokovic,"6-1, 7-6, 7-6, 7-5",198
+M0230,Australian Open,2020,Semifinal,Clay,Andy Nadal,Boris McEnroe,61,74,Andy Nadal,"6-3, 6-2, 6-1, 6-1",223
+M0231,Wimbledon,2004,Third Round,Clay,Boris Alcaraz,Andy Sampras,79,91,Boris Alcaraz,"7-5, 6-1, 6-2, 7-5, 7-5",150
+M0232,French Open,2020,Third Round,Hard,Rafael Nadal,Novak Federer,6,47,Rafael Nadal,"6-4, 7-5, 7-6, 7-5",114
+M0233,Australian Open,2019,Quarterfinal,Clay,Andy Becker,Boris Alcaraz,76,18,Boris Alcaraz,"7-6, 7-5, 6-3",197
+M0234,US Open,2008,Second Round,Clay,Boris Djokovic,Andy Becker,60,67,Boris Djokovic,"7-5, 6-3, 6-1, 6-4, 6-2",179
+M0235,Wimbledon,2020,Second Round,Clay,Andy Medvedev,Stefanos Sampras,18,66,Andy Medvedev,"6-4, 6-2, 6-1, 7-5",221
+M0236,US Open,2023,Quarterfinal,Clay,Novak Becker,Andy Becker,59,5,Andy Becker,"6-4, 6-4, 6-1, 7-5",197
+M0237,Wimbledon,2013,Third Round,Clay,Rafael Alcaraz,Carlos McEnroe,70,87,Rafael Alcaraz,"6-4, 6-2, 7-6, 6-1, 7-6",231
+M0238,Australian Open,2023,Semifinal,Hard,Carlos Medvedev,John Tsitsipas,26,1,John Tsitsipas,"7-6, 6-0, 6-4, 7-5",111
+M0239,Australian Open,2022,Semifinal,Clay,Stefanos Medvedev,Andy Alcaraz,95,44,Andy Alcaraz,"6-2, 7-6, 6-3, 6-1",185
+M0240,French Open,2018,Second Round,Clay,Pete Nadal,Rafael McEnroe,48,44,Rafael McEnroe,"6-4, 6-4, 7-5",192
+M0241,French Open,2011,Second Round,Hard,Carlos McEnroe,John Federer,38,23,John Federer,"6-1, 7-5, 6-4",146
+M0242,Wimbledon,2009,First Round,Grass,Daniil Alcaraz,Roger Tsitsipas,15,86,Daniil Alcaraz,"6-1, 7-6, 6-0, 7-6, 7-5",102
+M0243,Wimbledon,2020,Semifinal,Clay,Boris Tsitsipas,Andy McEnroe,19,72,Boris Tsitsipas,"7-6, 6-0, 7-5, 6-4, 7-6",167
+M0244,Australian Open,2010,Third Round,Grass,Stefanos Tsitsipas,Daniil Sampras,100,28,Daniil Sampras,"6-0, 6-2, 6-0, 7-6, 7-6",104
+M0245,Wimbledon,2011,First Round,Grass,Pete Murray,Stefanos Becker,53,99,Pete Murray,"6-2, 6-2, 7-6, 6-0, 6-1",136
+M0246,French Open,2023,Third Round,Hard,Pete Murray,Stefanos Sampras,18,41,Pete Murray,"6-1, 7-6, 6-3",124
+M0247,US Open,2002,First Round,Grass,Novak McEnroe,Novak Becker,29,4,Novak Becker,"6-2, 6-4, 6-1",166
+M0248,US Open,2020,Third Round,Grass,Carlos McEnroe,Andy Sampras,63,6,Andy Sampras,"6-0, 6-0, 6-1, 6-3, 6-3",115
+M0249,French Open,2022,Final,Hard,John Murray,Andy McEnroe,91,5,Andy McEnroe,"6-3, 6-2, 7-6",103
+M0250,Wimbledon,2004,Third Round,Hard,Carlos Tsitsipas,Andy Murray,68,68,Andy Murray,"7-6, 6-1, 7-5, 7-6, 7-5",104
+M0251,US Open,2014,Semifinal,Hard,Roger Djokovic,John Tsitsipas,71,37,John Tsitsipas,"6-1, 6-2, 7-5, 6-0, 7-6",106
+M0252,US Open,2003,Semifinal,Hard,Pete Djokovic,Rafael Tsitsipas,79,35,Rafael Tsitsipas,"6-1, 6-4, 6-0, 7-5",124
+M0253,US Open,2012,First Round,Clay,Pete Medvedev,Pete Djokovic,83,59,Pete Djokovic,"6-3, 7-6, 6-1, 7-5, 7-6",236
+M0254,French Open,2003,First Round,Clay,Andy Murray,Pete Medvedev,68,65,Pete Medvedev,"7-6, 6-4, 6-3, 6-4",180
+M0255,Wimbledon,2007,Semifinal,Clay,John Nadal,Carlos Murray,26,80,John Nadal,"7-6, 6-1, 7-6",234
+M0256,French Open,2013,Final,Grass,Novak Alcaraz,John Medvedev,57,44,John Medvedev,"6-0, 6-3, 6-3, 6-1",127
+M0257,US Open,2016,Third Round,Grass,John Federer,Rafael Alcaraz,94,85,Rafael Alcaraz,"6-3, 6-1, 7-6, 7-6, 6-2",160
+M0258,Wimbledon,2021,Third Round,Hard,Roger Federer,Roger Sampras,39,38,Roger Sampras,"6-2, 6-2, 6-2, 7-5",96
+M0259,US Open,2020,Final,Clay,Andy Murray,Carlos Federer,23,71,Andy Murray,"6-1, 6-4, 6-1, 6-3, 7-5",196
+M0260,US Open,2011,Quarterfinal,Hard,Pete Sampras,John Sampras,68,29,John Sampras,"7-6, 6-0, 6-1",127
+M0261,US Open,2003,Semifinal,Clay,Boris Alcaraz,Novak Djokovic,70,35,Novak Djokovic,"6-3, 6-4, 6-4, 7-6, 6-1",209
+M0262,US Open,2023,First Round,Hard,Rafael Becker,Novak Medvedev,87,96,Rafael Becker,"6-1, 7-5, 6-0",143
+M0263,US Open,2012,First Round,Grass,Rafael Federer,Roger Djokovic,24,74,Rafael Federer,"7-5, 7-5, 6-3, 6-1",153
+M0264,US Open,2007,Semifinal,Grass,Daniil Alcaraz,Rafael Djokovic,99,42,Rafael Djokovic,"6-2, 7-5, 6-0, 6-4",175
+M0265,Wimbledon,2005,Second Round,Clay,Novak Djokovic,John Murray,9,26,Novak Djokovic,"7-5, 7-6, 7-6, 7-5",131
+M0266,Wimbledon,2022,Semifinal,Hard,Novak Alcaraz,Andy McEnroe,46,50,Novak Alcaraz,"6-0, 6-0, 6-4, 6-1",134
+M0267,Wimbledon,2020,Semifinal,Grass,Stefanos Alcaraz,Stefanos Alcaraz,90,24,Stefanos Alcaraz,"6-2, 7-5, 6-1, 6-1, 7-5",150
+M0268,Australian Open,2011,Semifinal,Clay,Roger Djokovic,Daniil Alcaraz,36,8,Daniil Alcaraz,"6-3, 6-2, 6-3, 6-3, 6-0",231
+M0269,US Open,2015,Final,Clay,Boris Djokovic,Carlos McEnroe,100,97,Carlos McEnroe,"6-0, 6-2, 6-0",228
+M0270,US Open,2018,Quarterfinal,Hard,Daniil Djokovic,John Murray,86,97,Daniil Djokovic,"6-2, 7-5, 6-3",132
+M0271,Wimbledon,2001,Second Round,Grass,Roger Becker,Roger Tsitsipas,8,28,Roger Becker,"6-3, 7-6, 6-3, 7-5, 6-1",126
+M0272,Australian Open,2012,Second Round,Hard,Andy McEnroe,Daniil Murray,10,96,Andy McEnroe,"6-3, 6-2, 6-1, 6-0, 7-5",126
+M0273,Australian Open,2022,Quarterfinal,Hard,John McEnroe,Boris Medvedev,39,40,John McEnroe,"7-5, 6-4, 6-4",134
+M0274,Wimbledon,2000,Quarterfinal,Hard,Daniil McEnroe,Novak Sampras,3,53,Daniil McEnroe,"6-4, 6-0, 6-4, 6-1, 6-2",145
+M0275,Australian Open,2022,Semifinal,Hard,Andy Sampras,John McEnroe,79,31,John McEnroe,"6-1, 6-0, 6-3, 6-2, 6-2",113
+M0276,French Open,2005,First Round,Clay,Rafael Becker,Roger Becker,93,99,Rafael Becker,"7-6, 7-5, 6-0, 7-6",146
+M0277,French Open,2022,Second Round,Grass,Pete Djokovic,Andy Tsitsipas,22,71,Pete Djokovic,"6-1, 6-1, 6-2",105
+M0278,Wimbledon,2015,Final,Grass,Stefanos Tsitsipas,Carlos Djokovic,9,18,Stefanos Tsitsipas,"7-6, 7-6, 6-2, 7-6, 7-6",166
+M0279,Wimbledon,2012,First Round,Grass,John Alcaraz,Stefanos Alcaraz,9,17,John Alcaraz,"7-6, 7-6, 6-4, 6-3, 6-0",132
+M0280,French Open,2020,Quarterfinal,Grass,Boris Tsitsipas,Andy Djokovic,76,42,Andy Djokovic,"7-5, 7-6, 6-3, 6-3",141
+M0281,Australian Open,2023,Third Round,Clay,Roger Djokovic,Roger Tsitsipas,65,34,Roger Tsitsipas,"6-2, 7-6, 6-1, 6-2, 6-2",151
+M0282,US Open,2016,Semifinal,Clay,Daniil Becker,Carlos Nadal,19,37,Daniil Becker,"6-2, 6-0, 6-3",233
+M0283,Australian Open,2002,Semifinal,Grass,Andy Tsitsipas,Carlos McEnroe,64,84,Andy Tsitsipas,"6-1, 7-5, 7-5, 6-0",122
+M0284,French Open,2004,Second Round,Clay,Andy McEnroe,Carlos McEnroe,20,50,Andy McEnroe,"6-4, 7-5, 7-5",180
+M0285,French Open,2018,First Round,Hard,Andy McEnroe,Roger Tsitsipas,6,57,Andy McEnroe,"6-0, 7-6, 6-4, 6-0",114
+M0286,French Open,2002,Semifinal,Clay,Novak Medvedev,Rafael Sampras,58,54,Rafael Sampras,"7-5, 6-2, 7-5",143
+M0287,Australian Open,2017,Final,Hard,Stefanos Becker,Novak McEnroe,56,71,Stefanos Becker,"6-4, 6-0, 6-0, 6-1",112
+M0288,Australian Open,2019,Second Round,Grass,Carlos Nadal,Stefanos Sampras,17,92,Carlos Nadal,"6-3, 6-0, 6-4, 6-4",156
+M0289,Wimbledon,2017,Second Round,Grass,Boris Medvedev,Novak McEnroe,78,59,Novak McEnroe,"7-5, 6-3, 6-0, 6-0",114
+M0290,French Open,2000,Quarterfinal,Hard,Andy Nadal,Stefanos Tsitsipas,55,55,Stefanos Tsitsipas,"6-0, 6-0, 6-4, 7-6, 6-3",104
+M0291,French Open,2005,Second Round,Grass,Carlos Djokovic,Stefanos Alcaraz,28,84,Carlos Djokovic,"7-6, 7-6, 7-6, 6-4",148
+M0292,Australian Open,2010,Final,Hard,Andy Federer,Daniil Tsitsipas,55,33,Daniil Tsitsipas,"6-2, 6-1, 6-0, 6-1, 6-2",150
+M0293,US Open,2007,Final,Hard,Pete Becker,John Alcaraz,2,24,Pete Becker,"6-0, 7-5, 7-5",142
+M0294,Australian Open,2010,First Round,Clay,Daniil Tsitsipas,Roger Medvedev,34,5,Roger Medvedev,"6-3, 6-3, 6-4, 7-6",159
+M0295,US Open,2015,Semifinal,Grass,John Nadal,Novak Alcaraz,56,85,John Nadal,"7-6, 6-4, 7-6, 7-6, 6-0",173
+M0296,Australian Open,2017,First Round,Hard,Rafael Sampras,Daniil McEnroe,66,73,Rafael Sampras,"6-3, 6-4, 7-5, 7-5",110
+M0297,US Open,2022,First Round,Hard,Daniil Federer,Roger Alcaraz,90,6,Roger Alcaraz,"6-0, 7-5, 6-3, 6-2",148
+M0298,Wimbledon,2008,Semifinal,Grass,Novak Nadal,Stefanos Djokovic,62,64,Novak Nadal,"6-0, 6-1, 6-2, 6-2, 6-4",122
+M0299,French Open,2018,Final,Hard,Carlos Djokovic,Stefanos Medvedev,88,6,Stefanos Medvedev,"7-5, 6-2, 6-4, 7-6, 6-0",119
+M0300,Australian Open,2021,Quarterfinal,Clay,Roger Medvedev,Andy Alcaraz,50,50,Andy Alcaraz,"6-2, 6-2, 6-0, 6-4",162
+M0301,French Open,2014,Semifinal,Hard,Stefanos Medvedev,Daniil Medvedev,72,68,Daniil Medvedev,"6-4, 6-3, 6-4, 7-6, 6-0",97
+M0302,Australian Open,2018,Third Round,Grass,Andy Murray,Roger Murray,70,44,Roger Murray,"6-3, 6-0, 6-3",159
+M0303,French Open,2016,Final,Clay,Carlos Becker,John Medvedev,81,76,John Medvedev,"6-1, 6-1, 6-2, 6-3",227
+M0304,Australian Open,2014,Third Round,Hard,John Tsitsipas,Stefanos Murray,46,72,John Tsitsipas,"6-1, 6-3, 6-1, 6-2, 7-5",140
+M0305,Wimbledon,2012,Semifinal,Grass,Roger Sampras,Carlos Murray,26,5,Carlos Murray,"7-5, 6-2, 7-6, 6-1, 6-4",108
+M0306,Wimbledon,2019,Quarterfinal,Clay,Andy Nadal,Roger Murray,72,35,Roger Murray,"6-4, 6-0, 6-3, 6-1",232
+M0307,Australian Open,2003,Semifinal,Clay,Carlos Murray,Roger Sampras,99,39,Roger Sampras,"6-1, 6-0, 7-6, 6-2, 6-0",208
+M0308,Australian Open,2014,Quarterfinal,Grass,Stefanos Medvedev,Pete Becker,6,31,Stefanos Medvedev,"6-4, 6-4, 7-5",113
+M0309,Australian Open,2012,Third Round,Hard,Roger Becker,Roger McEnroe,38,53,Roger Becker,"6-3, 6-2, 6-2, 6-1",104
+M0310,Wimbledon,2009,Final,Grass,Carlos Medvedev,Roger Federer,38,87,Carlos Medvedev,"6-4, 6-1, 6-1, 7-5, 7-6",147
+M0311,Australian Open,2005,Semifinal,Clay,Stefanos McEnroe,Boris Tsitsipas,91,11,Boris Tsitsipas,"6-4, 6-4, 7-6, 6-0",201
+M0312,US Open,2015,Quarterfinal,Hard,Rafael Tsitsipas,Daniil Sampras,98,20,Daniil Sampras,"6-4, 6-1, 6-3, 6-1",135
+M0313,Australian Open,2003,First Round,Clay,Daniil Murray,Daniil Federer,35,17,Daniil Federer,"6-1, 6-3, 6-2, 6-4, 7-6",182
+M0314,Wimbledon,2021,Second Round,Grass,Daniil McEnroe,Daniil Federer,90,8,Daniil Federer,"6-1, 7-5, 6-0, 7-5",177
+M0315,Australian Open,2017,Second Round,Hard,Rafael Tsitsipas,Daniil Murray,25,22,Daniil Murray,"6-0, 6-3, 6-1, 6-1, 6-0",132
+M0316,Australian Open,2002,Second Round,Clay,Andy Tsitsipas,Daniil Medvedev,40,88,Andy Tsitsipas,"6-3, 7-5, 6-3, 6-0",228
+M0317,US Open,2021,First Round,Clay,Boris Becker,Daniil Federer,45,57,Boris Becker,"6-1, 6-0, 6-2, 6-1, 7-6",188
+M0318,French Open,2000,Semifinal,Clay,Daniil Alcaraz,John Nadal,66,18,John Nadal,"6-3, 6-1, 6-1, 6-1, 7-5",188
+M0319,Australian Open,2013,Final,Hard,Stefanos Becker,Pete Alcaraz,15,52,Stefanos Becker,"7-6, 6-2, 7-5",139
+M0320,Australian Open,2003,Final,Grass,Daniil Djokovic,Andy Sampras,2,76,Daniil Djokovic,"7-5, 6-2, 6-1, 6-3",155
+M0321,Australian Open,2006,Quarterfinal,Grass,Boris McEnroe,Rafael Tsitsipas,73,21,Rafael Tsitsipas,"6-0, 7-5, 6-3",135
+M0322,US Open,2009,Quarterfinal,Clay,Stefanos Becker,Daniil Sampras,8,51,Stefanos Becker,"6-3, 6-1, 6-1, 6-3",167
+M0323,French Open,2014,Second Round,Grass,Andy Medvedev,Andy McEnroe,13,97,Andy Medvedev,"6-3, 7-6, 7-5",143
+M0324,French Open,2018,Third Round,Clay,Novak Federer,Andy Alcaraz,93,87,Andy Alcaraz,"6-1, 6-4, 6-3",156
+M0325,US Open,2001,Quarterfinal,Clay,Roger Alcaraz,Daniil Sampras,11,27,Roger Alcaraz,"6-4, 6-0, 6-0, 7-5, 6-2",157
+M0326,French Open,2012,First Round,Grass,Stefanos Federer,John Becker,80,85,Stefanos Federer,"6-3, 6-4, 7-6",123
+M0327,US Open,2001,Quarterfinal,Clay,Rafael Federer,Stefanos Becker,82,15,Stefanos Becker,"7-6, 6-0, 6-1, 6-0, 6-2",199
+M0328,Australian Open,2016,Semifinal,Clay,Daniil Becker,Rafael Becker,100,44,Rafael Becker,"7-5, 7-6, 6-2, 6-1",215
+M0329,US Open,2019,Third Round,Grass,Boris Nadal,Rafael Medvedev,66,49,Rafael Medvedev,"7-5, 6-3, 6-1, 6-1",104
+M0330,US Open,2003,Final,Grass,Carlos Federer,Novak Nadal,30,13,Novak Nadal,"6-1, 6-1, 7-5",144
+M0331,Wimbledon,2002,Second Round,Grass,Boris Tsitsipas,John Federer,18,72,Boris Tsitsipas,"6-2, 6-3, 6-4, 6-3",129
+M0332,US Open,2021,Final,Clay,Novak Alcaraz,Pete McEnroe,34,97,Novak Alcaraz,"6-0, 6-0, 6-0",232
+M0333,Australian Open,2012,Quarterfinal,Grass,Rafael Alcaraz,Carlos Medvedev,2,7,Rafael Alcaraz,"7-6, 7-6, 6-0",160
+M0334,Wimbledon,2005,Second Round,Grass,Carlos Nadal,Stefanos Medvedev,23,38,Carlos Nadal,"6-1, 7-5, 6-0",154
+M0335,Australian Open,2005,Final,Grass,Carlos McEnroe,Daniil Federer,76,42,Daniil Federer,"6-1, 6-4, 6-0, 7-5",147
+M0336,US Open,2015,Semifinal,Clay,Rafael Murray,Andy McEnroe,79,82,Rafael Murray,"7-5, 7-6, 6-3, 6-0, 6-0",234
+M0337,Wimbledon,2022,Second Round,Hard,Daniil Tsitsipas,Boris Tsitsipas,9,41,Daniil Tsitsipas,"6-3, 7-6, 7-6, 6-1, 7-6",111
+M0338,Wimbledon,2015,Semifinal,Clay,Andy Tsitsipas,Carlos Nadal,72,15,Carlos Nadal,"6-3, 6-4, 7-5, 7-5",133
+M0339,French Open,2004,Third Round,Clay,Carlos Alcaraz,Stefanos Sampras,81,6,Stefanos Sampras,"7-5, 6-1, 6-0",160
+M0340,Australian Open,2012,Second Round,Grass,John Medvedev,John Medvedev,100,37,John Medvedev,"6-0, 6-4, 6-3",151
+M0341,US Open,2007,First Round,Grass,Rafael Medvedev,Andy Becker,70,83,Rafael Medvedev,"6-0, 7-5, 6-4, 6-2",101
+M0342,Wimbledon,2019,First Round,Hard,Boris Nadal,Carlos Alcaraz,71,91,Boris Nadal,"6-4, 6-4, 7-5, 7-5, 6-1",98
+M0343,Wimbledon,2020,First Round,Hard,Daniil Nadal,Pete Djokovic,61,5,Pete Djokovic,"6-3, 7-5, 6-0, 6-2",149
+M0344,French Open,2020,Quarterfinal,Clay,Daniil Becker,Roger Nadal,94,4,Roger Nadal,"6-2, 7-6, 6-0, 7-5, 6-0",124
+M0345,Australian Open,2013,First Round,Clay,Stefanos Nadal,Rafael Murray,22,30,Stefanos Nadal,"6-0, 6-1, 6-0, 6-3, 7-6",193
+M0346,US Open,2008,Semifinal,Hard,Roger Djokovic,Stefanos Nadal,37,78,Roger Djokovic,"7-6, 6-4, 6-3, 7-5",144
+M0347,Australian Open,2022,First Round,Grass,Rafael Nadal,Pete Tsitsipas,2,88,Rafael Nadal,"6-1, 6-2, 6-0, 6-2, 7-5",166
+M0348,Wimbledon,2018,Final,Grass,Carlos Nadal,Rafael Murray,15,83,Carlos Nadal,"6-1, 6-4, 6-0, 6-0, 6-4",141
+M0349,French Open,2000,Semifinal,Grass,John Sampras,Daniil Sampras,46,71,John Sampras,"6-1, 6-3, 6-4, 6-1, 6-3",114
+M0350,Wimbledon,2006,Third Round,Clay,Carlos Becker,Pete Murray,74,30,Pete Murray,"7-6, 6-1, 6-1",148
+M0351,Australian Open,2006,Second Round,Grass,Andy Becker,Stefanos Federer,6,88,Andy Becker,"6-4, 7-6, 6-2, 7-5, 6-0",132
+M0352,French Open,2017,First Round,Hard,Roger Alcaraz,Andy Federer,96,81,Andy Federer,"6-3, 6-3, 6-4, 6-1",100
+M0353,French Open,2007,Final,Hard,Novak McEnroe,Boris Alcaraz,58,91,Novak McEnroe,"7-6, 7-5, 6-0, 6-4",147
+M0354,French Open,2007,Semifinal,Clay,John Medvedev,Pete McEnroe,36,30,Pete McEnroe,"7-5, 6-2, 6-3",213
+M0355,Australian Open,2008,Quarterfinal,Grass,Roger Federer,Rafael Federer,41,5,Rafael Federer,"7-6, 7-6, 6-2, 6-0, 6-2",164
+M0356,Wimbledon,2005,Semifinal,Grass,Daniil Sampras,Novak Sampras,9,56,Daniil Sampras,"7-6, 6-2, 7-5, 7-5",110
+M0357,French Open,2006,Third Round,Grass,John Alcaraz,Stefanos Djokovic,10,86,John Alcaraz,"6-3, 6-2, 6-3, 6-1, 6-4",173
+M0358,US Open,2022,First Round,Clay,Roger Federer,Daniil Federer,92,54,Daniil Federer,"7-6, 6-0, 6-3",237
+M0359,Wimbledon,2008,Second Round,Hard,John Federer,Novak Djokovic,22,79,John Federer,"6-3, 6-1, 6-3, 6-1",106
+M0360,US Open,2005,Second Round,Clay,John Tsitsipas,Roger Tsitsipas,82,36,Roger Tsitsipas,"7-6, 7-5, 6-4",161
+M0361,Wimbledon,2023,Third Round,Clay,Boris Nadal,Roger Medvedev,19,91,Boris Nadal,"7-5, 7-6, 6-2, 6-4",149
+M0362,Australian Open,2016,First Round,Clay,Stefanos Federer,Boris Alcaraz,54,39,Boris Alcaraz,"6-3, 7-5, 7-5, 6-0, 7-6",187
+M0363,US Open,2010,Second Round,Hard,Daniil Becker,Pete McEnroe,37,28,Pete McEnroe,"7-5, 6-4, 6-4, 6-0",143
+M0364,Australian Open,2014,First Round,Clay,Rafael Alcaraz,Daniil Sampras,98,69,Daniil Sampras,"6-2, 6-1, 6-4",217
+M0365,Wimbledon,2006,Third Round,Grass,Novak McEnroe,Stefanos Sampras,35,64,Novak McEnroe,"6-2, 6-0, 6-2, 6-4, 7-5",137
+M0366,Wimbledon,2011,First Round,Hard,John Sampras,John Tsitsipas,96,26,John Tsitsipas,"7-5, 6-2, 7-5, 6-3, 7-5",100
+M0367,US Open,2019,Final,Hard,Novak Sampras,Roger McEnroe,86,66,Roger McEnroe,"6-2, 6-3, 6-3, 6-2, 6-0",140
+M0368,Wimbledon,2000,Third Round,Grass,Andy Medvedev,Roger McEnroe,65,71,Andy Medvedev,"6-4, 6-4, 7-6, 6-1",167
+M0369,Australian Open,2016,Final,Hard,Daniil Tsitsipas,Rafael McEnroe,71,37,Rafael McEnroe,"7-6, 7-5, 6-1, 6-2",125
+M0370,Wimbledon,2015,Third Round,Grass,Rafael Tsitsipas,John Djokovic,67,11,John Djokovic,"6-0, 6-3, 6-3, 7-5, 6-0",150
+M0371,Australian Open,2014,Final,Clay,Carlos Alcaraz,Carlos Djokovic,12,59,Carlos Alcaraz,"6-3, 6-3, 6-2, 6-3",162
+M0372,US Open,2013,Semifinal,Clay,Boris Federer,Roger Nadal,54,4,Roger Nadal,"6-0, 6-3, 6-1, 7-5",139
+M0373,Australian Open,2020,Quarterfinal,Hard,John Tsitsipas,Roger Djokovic,9,19,John Tsitsipas,"6-4, 7-6, 6-1, 7-6",131
+M0374,Wimbledon,2002,Second Round,Grass,Roger Alcaraz,Andy Murray,67,37,Andy Murray,"6-1, 6-4, 7-6",163
+M0375,Australian Open,2022,Semifinal,Clay,Rafael Djokovic,Novak Medvedev,87,48,Novak Medvedev,"6-2, 6-3, 7-6, 7-6, 6-1",140
+M0376,US Open,2008,Third Round,Grass,John Federer,John Murray,82,60,John Murray,"6-0, 6-4, 6-0, 6-2, 7-5",129
+M0377,French Open,2016,Third Round,Grass,Roger Nadal,Pete Alcaraz,48,14,Pete Alcaraz,"7-6, 7-6, 6-4, 6-2",102
+M0378,Wimbledon,2015,Semifinal,Clay,Stefanos Djokovic,Andy Alcaraz,100,99,Andy Alcaraz,"6-0, 6-1, 6-0, 6-1, 7-6",167
+M0379,Australian Open,2021,Semifinal,Clay,Roger Djokovic,John Alcaraz,28,14,John Alcaraz,"6-0, 6-4, 6-2, 6-1",140
+M0380,US Open,2017,Semifinal,Hard,Pete Federer,Carlos Sampras,22,78,Pete Federer,"6-4, 7-5, 6-3, 7-6, 6-4",112
+M0381,US Open,2009,Semifinal,Grass,Daniil Medvedev,Roger McEnroe,65,83,Daniil Medvedev,"6-1, 6-1, 7-6, 7-5",125
+M0382,Australian Open,2022,Second Round,Grass,Stefanos Becker,Rafael Nadal,97,81,Rafael Nadal,"6-3, 7-6, 6-3, 6-2, 6-0",110
+M0383,Wimbledon,2023,Quarterfinal,Hard,Daniil Sampras,John Medvedev,3,44,Daniil Sampras,"6-4, 6-4, 6-3, 6-0, 6-2",126
+M0384,US Open,2017,First Round,Grass,Stefanos Federer,Carlos Nadal,18,42,Stefanos Federer,"7-5, 7-6, 6-1",173
+M0385,Wimbledon,2001,Final,Hard,Daniil Murray,Pete Murray,20,14,Pete Murray,"6-3, 6-3, 6-3",119
+M0386,French Open,2004,Second Round,Clay,Boris Becker,John Sampras,98,19,John Sampras,"6-0, 6-2, 6-4",240
+M0387,French Open,2016,Final,Clay,Carlos Alcaraz,Boris Alcaraz,87,14,Boris Alcaraz,"7-5, 6-3, 6-0",164
+M0388,French Open,2022,Third Round,Grass,Daniil Federer,Daniil Alcaraz,65,4,Daniil Alcaraz,"7-5, 6-4, 6-0",107
+M0389,Australian Open,2017,Third Round,Grass,Stefanos Federer,John Federer,68,53,John Federer,"6-3, 6-0, 6-1",147
+M0390,Australian Open,2009,Quarterfinal,Grass,Novak Becker,Pete Alcaraz,1,30,Novak Becker,"7-6, 7-6, 6-1, 6-1, 7-6",152
+M0391,French Open,2004,Final,Clay,Boris Murray,John Medvedev,60,78,Boris Murray,"7-5, 7-5, 6-3, 6-0",236
+M0392,Wimbledon,2006,Third Round,Clay,Rafael Medvedev,Roger Djokovic,73,1,Roger Djokovic,"7-6, 7-5, 6-2",127
+M0393,Wimbledon,2010,Final,Clay,Pete McEnroe,Daniil Tsitsipas,85,74,Daniil Tsitsipas,"6-2, 6-2, 6-0, 6-4",130
+M0394,French Open,2012,Second Round,Grass,Stefanos Medvedev,Stefanos Federer,74,93,Stefanos Medvedev,"7-6, 6-0, 6-3",104
+M0395,Wimbledon,2000,Second Round,Hard,Andy McEnroe,Boris Murray,62,56,Boris Murray,"7-6, 6-0, 6-1, 6-1",129
+M0396,Wimbledon,2018,Semifinal,Grass,Boris Sampras,Stefanos Federer,71,4,Stefanos Federer,"7-5, 6-2, 6-0, 6-2, 6-0",167
+M0397,French Open,2007,Final,Hard,Daniil Murray,Stefanos Nadal,60,55,Stefanos Nadal,"6-4, 7-5, 6-0",91
+M0398,French Open,2003,Final,Grass,Novak McEnroe,Carlos Federer,87,77,Carlos Federer,"6-1, 6-1, 7-6",131
+M0399,French Open,2016,Second Round,Clay,Boris Medvedev,John Federer,48,39,John Federer,"6-0, 6-3, 7-6",145
+M0400,Wimbledon,2002,Quarterfinal,Hard,Roger McEnroe,Roger Alcaraz,55,65,Roger McEnroe,"7-5, 7-6, 6-1, 6-2, 7-6",109
+M0401,US Open,2023,Second Round,Hard,Daniil McEnroe,Stefanos Becker,63,16,Stefanos Becker,"6-1, 7-6, 6-2",112
+M0402,Australian Open,2003,Quarterfinal,Hard,Boris Nadal,John Federer,5,28,Boris Nadal,"7-6, 6-2, 6-4",91
+M0403,French Open,2007,First Round,Grass,Andy Alcaraz,Boris McEnroe,4,3,Boris McEnroe,"6-4, 6-4, 6-3, 7-6",133
+M0404,US Open,2009,First Round,Grass,Carlos Murray,Rafael McEnroe,60,33,Rafael McEnroe,"6-4, 6-0, 7-6",144
+M0405,Australian Open,2006,Final,Clay,Carlos Federer,Boris Tsitsipas,27,76,Carlos Federer,"6-3, 6-0, 7-6",207
+M0406,Wimbledon,2022,Final,Clay,Stefanos Federer,Daniil Medvedev,31,29,Daniil Medvedev,"6-3, 6-3, 6-1, 7-6, 6-0",136
+M0407,Wimbledon,2018,Third Round,Grass,Novak Djokovic,Rafael Medvedev,68,92,Novak Djokovic,"6-1, 6-0, 7-6, 6-0",172
+M0408,French Open,2018,Second Round,Clay,Andy Medvedev,Boris Alcaraz,85,59,Boris Alcaraz,"6-1, 7-5, 7-5, 7-6",134
+M0409,US Open,2012,Quarterfinal,Hard,Novak Djokovic,Rafael Murray,59,75,Novak Djokovic,"6-0, 7-6, 6-0, 7-5",121
+M0410,French Open,2021,Second Round,Clay,John Tsitsipas,Carlos Becker,97,26,Carlos Becker,"6-2, 7-6, 6-4, 6-4",163
+M0411,Australian Open,2018,First Round,Hard,Novak Federer,Carlos Alcaraz,65,96,Novak Federer,"6-2, 6-1, 6-0, 6-2",126
+M0412,US Open,2001,Semifinal,Clay,Daniil Alcaraz,Novak Becker,64,51,Novak Becker,"6-0, 6-0, 6-3, 6-4",227
+M0413,French Open,2000,Quarterfinal,Clay,Andy McEnroe,Roger Sampras,74,36,Roger Sampras,"6-3, 6-0, 6-3, 6-0, 6-1",194
+M0414,French Open,2019,Final,Hard,Andy Becker,Daniil McEnroe,72,6,Daniil McEnroe,"7-6, 6-3, 6-2, 6-1, 6-1",110
+M0415,US Open,2001,Final,Clay,Stefanos Murray,Pete Federer,22,58,Stefanos Murray,"6-2, 6-3, 6-0, 7-5, 6-0",193
+M0416,US Open,2019,Semifinal,Clay,Pete Tsitsipas,Andy Becker,24,98,Pete Tsitsipas,"7-5, 6-3, 7-5",181
+M0417,French Open,2008,Final,Hard,Pete Becker,Stefanos Federer,60,9,Stefanos Federer,"6-1, 6-0, 6-0, 6-2, 6-2",107
+M0418,Wimbledon,2000,Final,Clay,John Djokovic,Stefanos Federer,68,40,Stefanos Federer,"6-4, 6-4, 6-0, 6-1",217
+M0419,French Open,2023,Semifinal,Clay,Daniil Murray,Stefanos Federer,37,81,Daniil Murray,"6-2, 6-4, 7-5, 6-1, 6-2",222
+M0420,US Open,2005,Semifinal,Hard,Novak Sampras,Stefanos Alcaraz,2,74,Novak Sampras,"6-1, 6-0, 6-2, 7-6",108
+M0421,Australian Open,2023,Third Round,Clay,Daniil Tsitsipas,Andy Nadal,48,4,Andy Nadal,"6-1, 6-2, 6-3",166
+M0422,French Open,2010,First Round,Hard,Novak Medvedev,Carlos Nadal,18,58,Novak Medvedev,"6-0, 6-2, 6-2",108
+M0423,US Open,2015,Third Round,Hard,Boris Nadal,Daniil Medvedev,89,91,Boris Nadal,"6-2, 6-0, 6-0, 7-5",129
+M0424,US Open,2004,Second Round,Clay,Rafael Alcaraz,Novak McEnroe,73,36,Novak McEnroe,"6-4, 6-0, 6-1",180
+M0425,French Open,2018,First Round,Hard,Boris Alcaraz,Novak Sampras,4,3,Novak Sampras,"6-4, 7-6, 6-3",118
+M0426,French Open,2022,Quarterfinal,Clay,Pete Federer,Rafael Tsitsipas,1,36,Pete Federer,"6-2, 6-3, 6-2, 6-1, 6-3",132
+M0427,Wimbledon,2015,Second Round,Grass,Daniil Djokovic,Daniil Federer,94,72,Daniil Federer,"6-0, 6-2, 6-4, 7-5",106
+M0428,Wimbledon,2002,First Round,Hard,Andy Becker,Stefanos Alcaraz,25,65,Andy Becker,"6-4, 7-6, 7-6",123
+M0429,US Open,2003,Final,Clay,Rafael McEnroe,Rafael Nadal,78,60,Rafael Nadal,"6-1, 6-1, 6-2, 6-3, 6-1",211
+M0430,French Open,2018,Semifinal,Hard,Pete Becker,Novak Alcaraz,37,62,Pete Becker,"7-6, 6-4, 6-3",141
+M0431,US Open,2000,Second Round,Clay,Novak Djokovic,Novak Murray,64,11,Novak Murray,"7-6, 6-0, 6-1, 6-4",203
+M0432,Australian Open,2022,Third Round,Grass,Boris McEnroe,Boris Tsitsipas,11,63,Boris McEnroe,"6-3, 6-2, 6-0",119
+M0433,US Open,2010,Semifinal,Hard,Daniil Djokovic,Carlos Djokovic,71,83,Daniil Djokovic,"6-1, 6-3, 6-2",143
+M0434,Wimbledon,2010,Semifinal,Grass,Carlos Murray,Rafael Murray,59,85,Carlos Murray,"6-3, 7-5, 6-0",121
+M0435,French Open,2008,Third Round,Clay,Pete Alcaraz,Novak McEnroe,47,42,Novak McEnroe,"6-0, 7-6, 6-1, 6-2",227
+M0436,French Open,2002,Final,Hard,Novak Nadal,Novak Nadal,89,16,Novak Nadal,"6-3, 7-6, 7-6, 6-0",130
+M0437,French Open,2015,Final,Hard,Novak Nadal,Andy Federer,42,93,Novak Nadal,"6-4, 7-5, 6-3",121
+M0438,Wimbledon,2002,Semifinal,Grass,Stefanos Medvedev,Stefanos Nadal,58,43,Stefanos Nadal,"7-6, 7-6, 7-5, 6-2, 7-5",163
+M0439,US Open,2023,Semifinal,Hard,Rafael Nadal,Stefanos Federer,54,4,Stefanos Federer,"6-0, 6-0, 6-0, 6-0, 6-3",137
+M0440,US Open,2003,Quarterfinal,Hard,Andy McEnroe,Carlos McEnroe,15,61,Andy McEnroe,"6-0, 6-2, 6-3",104
+M0441,French Open,2004,Final,Grass,Boris Djokovic,Boris Medvedev,10,53,Boris Djokovic,"6-3, 7-5, 6-2, 6-1",145
+M0442,Wimbledon,2001,Semifinal,Hard,Carlos Nadal,Daniil McEnroe,54,42,Daniil McEnroe,"6-3, 6-1, 6-0, 6-0",108
+M0443,Wimbledon,2003,Third Round,Hard,Rafael Alcaraz,Stefanos Federer,93,60,Stefanos Federer,"6-3, 7-5, 7-5, 7-5, 6-1",98
+M0444,Wimbledon,2005,First Round,Clay,Stefanos Becker,Andy Murray,33,34,Stefanos Becker,"6-2, 6-2, 6-4, 6-2, 6-2",186
+M0445,French Open,2010,Final,Grass,Roger Medvedev,Daniil Alcaraz,61,55,Daniil Alcaraz,"6-4, 7-6, 6-3",144
+M0446,French Open,2001,Second Round,Clay,Daniil Medvedev,Rafael Murray,71,9,Rafael Murray,"7-5, 6-0, 7-5, 6-0",141
+M0447,Australian Open,2014,Semifinal,Hard,Roger Alcaraz,Daniil Alcaraz,94,77,Daniil Alcaraz,"6-4, 7-5, 6-2, 7-5",106
+M0448,Australian Open,2021,First Round,Grass,Carlos Murray,Andy Becker,12,2,Andy Becker,"6-1, 7-6, 6-3, 6-3, 7-6",123
+M0449,Wimbledon,2023,Second Round,Grass,John Murray,Andy Sampras,32,48,John Murray,"6-0, 6-3, 6-1, 6-0",128
+M0450,Wimbledon,2010,First Round,Hard,Carlos Alcaraz,Pete Tsitsipas,81,13,Pete Tsitsipas,"6-0, 6-0, 6-3, 6-4, 7-6",127
+M0451,US Open,2001,Final,Hard,Rafael Federer,Rafael Sampras,32,64,Rafael Federer,"7-5, 7-5, 7-5",131
+M0452,French Open,2008,Second Round,Grass,John Tsitsipas,Daniil Sampras,99,50,Daniil Sampras,"6-1, 6-2, 6-2, 7-6",174
+M0453,Wimbledon,2017,Semifinal,Clay,Rafael Medvedev,John Alcaraz,21,85,Rafael Medvedev,"6-4, 6-1, 6-1, 6-0",196
+M0454,Wimbledon,2002,Third Round,Hard,Novak McEnroe,Rafael Djokovic,14,7,Rafael Djokovic,"7-5, 6-1, 6-3, 7-6, 6-2",97
+M0455,French Open,2009,Quarterfinal,Hard,Novak Tsitsipas,Novak McEnroe,94,45,Novak McEnroe,"7-5, 6-3, 7-6, 6-4, 6-4",127
+M0456,Wimbledon,2001,Second Round,Grass,Rafael Djokovic,Pete Nadal,54,41,Pete Nadal,"6-2, 7-5, 6-4, 6-4, 6-3",131
+M0457,French Open,2016,Third Round,Hard,Stefanos Murray,Andy Becker,60,86,Stefanos Murray,"7-5, 6-2, 7-5",105
+M0458,Australian Open,2002,First Round,Grass,Roger Becker,Rafael Becker,86,14,Rafael Becker,"6-4, 7-6, 6-4, 6-3, 6-3",159
+M0459,Wimbledon,2023,First Round,Hard,John Tsitsipas,Carlos Sampras,4,35,John Tsitsipas,"6-3, 7-6, 6-1, 6-1",103
+M0460,Australian Open,2003,Third Round,Clay,Roger Federer,Pete McEnroe,82,15,Pete McEnroe,"6-3, 6-3, 6-1, 6-3, 6-2",210
+M0461,French Open,2015,Second Round,Clay,Andy McEnroe,John Sampras,53,92,Andy McEnroe,"6-4, 6-4, 7-6, 6-2, 7-6",221
+M0462,Wimbledon,2009,First Round,Grass,Roger Medvedev,Stefanos Murray,27,38,Roger Medvedev,"6-3, 7-6, 6-2",156
+M0463,French Open,2023,Third Round,Grass,Stefanos Nadal,Carlos McEnroe,42,7,Carlos McEnroe,"6-0, 6-3, 6-1",109
+M0464,Australian Open,2013,Third Round,Grass,Roger Murray,John McEnroe,78,65,John McEnroe,"6-2, 6-3, 6-1",142
+M0465,Wimbledon,2000,Quarterfinal,Clay,Carlos Murray,Boris Federer,73,8,Boris Federer,"7-6, 7-5, 6-2, 6-4",183
+M0466,French Open,2020,Final,Grass,Roger Djokovic,Roger Becker,85,76,Roger Becker,"6-2, 6-3, 6-2",153
+M0467,US Open,2000,Third Round,Grass,Rafael Federer,Roger Tsitsipas,79,77,Roger Tsitsipas,"6-1, 7-5, 6-3, 6-0",168
+M0468,US Open,2019,First Round,Hard,Rafael Becker,Boris McEnroe,90,25,Boris McEnroe,"6-3, 7-6, 7-5, 6-2, 6-0",129
+M0469,French Open,2018,Quarterfinal,Hard,Andy McEnroe,Boris Nadal,50,82,Andy McEnroe,"6-4, 7-5, 6-1, 6-3, 6-1",140
+M0470,French Open,2015,Semifinal,Hard,John Tsitsipas,Rafael Alcaraz,89,2,Rafael Alcaraz,"7-6, 7-6, 6-1, 6-0",150
+M0471,Australian Open,2020,Quarterfinal,Clay,Daniil Alcaraz,John Tsitsipas,7,85,Daniil Alcaraz,"7-6, 6-1, 6-0",164
+M0472,Australian Open,2023,Final,Hard,Novak Federer,Roger Murray,15,64,Novak Federer,"6-3, 6-3, 6-3, 6-1",120
+M0473,US Open,2006,Third Round,Clay,Daniil Sampras,John Federer,90,61,John Federer,"6-4, 7-5, 6-3, 6-2, 7-5",204
+M0474,Wimbledon,2019,Semifinal,Hard,Andy Medvedev,Novak Nadal,15,96,Andy Medvedev,"6-4, 6-3, 6-2",124
+M0475,French Open,2018,First Round,Hard,Novak McEnroe,John Becker,30,50,Novak McEnroe,"7-5, 6-3, 6-0, 7-6",136
+M0476,Australian Open,2001,Second Round,Grass,Novak Tsitsipas,Novak Djokovic,92,28,Novak Djokovic,"6-1, 6-0, 7-5",176
+M0477,US Open,2004,Second Round,Grass,Novak Tsitsipas,John Tsitsipas,46,91,Novak Tsitsipas,"7-6, 7-6, 6-3, 6-4, 7-5",144
+M0478,Australian Open,2009,Quarterfinal,Clay,John Nadal,Daniil Medvedev,27,83,John Nadal,"6-2, 6-0, 6-3, 6-1",186
+M0479,Wimbledon,2018,Final,Clay,John McEnroe,Daniil Sampras,66,89,John McEnroe,"7-6, 7-5, 6-0, 6-2, 6-4",128
+M0480,Wimbledon,2012,Second Round,Clay,Carlos Sampras,Novak Sampras,86,95,Carlos Sampras,"7-5, 7-6, 6-2, 7-6, 6-0",172
+M0481,French Open,2007,Quarterfinal,Clay,Pete Federer,Andy Djokovic,25,57,Pete Federer,"6-2, 6-4, 6-0, 7-6, 7-6",157
+M0482,US Open,2000,Second Round,Clay,Daniil McEnroe,Daniil Nadal,18,15,Daniil Nadal,"6-1, 7-5, 6-0",189
+M0483,Wimbledon,2017,Third Round,Clay,Andy Djokovic,Rafael Djokovic,17,51,Andy Djokovic,"6-1, 7-5, 6-2, 7-6",181
+M0484,Australian Open,2003,First Round,Hard,John Medvedev,Rafael Nadal,94,61,Rafael Nadal,"7-6, 6-0, 6-3, 7-6, 6-3",107
+M0485,French Open,2009,First Round,Clay,John Djokovic,Roger Federer,5,73,John Djokovic,"6-2, 6-0, 6-2",193
+M0486,Australian Open,2007,Second Round,Hard,Pete Murray,Pete McEnroe,94,17,Pete McEnroe,"7-5, 6-3, 7-6, 6-3, 7-5",116
+M0487,French Open,2006,First Round,Clay,Andy Nadal,Stefanos Tsitsipas,91,63,Stefanos Tsitsipas,"6-2, 6-0, 7-6, 6-0, 6-0",185
+M0488,US Open,2012,Final,Grass,Stefanos Federer,Andy Tsitsipas,11,48,Stefanos Federer,"6-1, 6-3, 6-2, 6-0, 7-5",172
+M0489,US Open,2010,First Round,Grass,Novak Djokovic,John Nadal,21,49,Novak Djokovic,"7-6, 6-4, 6-4, 6-4, 6-2",159
+M0490,Australian Open,2000,Quarterfinal,Clay,John Murray,Novak Becker,41,10,Novak Becker,"6-1, 7-6, 7-5, 6-4, 7-6",238
+M0491,French Open,2020,Semifinal,Hard,Carlos Nadal,Pete Murray,66,37,Pete Murray,"6-1, 7-6, 6-1, 6-3",123
+M0492,Wimbledon,2007,Semifinal,Clay,Daniil Becker,Rafael Medvedev,93,64,Rafael Medvedev,"6-2, 7-6, 6-4",137
+M0493,French Open,2023,Third Round,Hard,Novak Medvedev,John Djokovic,66,62,John Djokovic,"6-2, 6-0, 6-1, 6-1, 7-6",129
+M0494,Wimbledon,2018,Final,Hard,Stefanos Tsitsipas,Carlos Federer,71,49,Carlos Federer,"6-3, 6-1, 6-1",127
+M0495,French Open,2002,Semifinal,Clay,Novak Tsitsipas,Carlos Federer,92,67,Carlos Federer,"6-3, 7-5, 6-4, 6-4",175
+M0496,French Open,2013,Final,Hard,Roger Medvedev,Carlos Djokovic,73,34,Carlos Djokovic,"7-6, 6-3, 6-1, 6-1",102
+M0497,US Open,2008,Semifinal,Grass,Carlos Sampras,Carlos Tsitsipas,73,34,Carlos Tsitsipas,"6-3, 6-1, 6-3, 6-4",127
+M0498,US Open,2014,Third Round,Clay,Andy Becker,Boris Murray,9,47,Andy Becker,"6-2, 7-6, 7-6, 7-6",127
+M0499,French Open,2022,First Round,Grass,Daniil Djokovic,Pete Sampras,77,27,Pete Sampras,"6-0, 7-5, 6-4, 6-0",167
+M0500,US Open,2022,Third Round,Grass,Roger Tsitsipas,John Nadal,29,22,John Nadal,"6-4, 6-2, 6-3",119
+M0501,French Open,2010,Semifinal,Clay,Novak McEnroe,Novak Becker,78,64,Novak Becker,"6-2, 6-1, 6-1, 7-6",231
+M0502,French Open,2007,Quarterfinal,Clay,Rafael Becker,Boris Alcaraz,66,34,Boris Alcaraz,"7-5, 7-5, 6-3, 6-4",176
+M0503,Australian Open,2002,Third Round,Clay,Novak Becker,Rafael Becker,62,45,Rafael Becker,"7-6, 6-4, 6-1",157
+M0504,Australian Open,2005,Final,Clay,Andy Becker,John Sampras,56,52,John Sampras,"6-4, 6-0, 6-0",166
+M0505,French Open,2008,Final,Hard,Boris Becker,Roger Alcaraz,76,53,Roger Alcaraz,"6-4, 7-5, 6-2, 7-6, 6-1",136
+M0506,Wimbledon,2006,Second Round,Hard,Novak Nadal,Rafael Becker,58,23,Rafael Becker,"6-4, 6-2, 7-5, 6-1, 6-1",140
+M0507,French Open,2008,Semifinal,Grass,Roger Alcaraz,Rafael Medvedev,60,97,Roger Alcaraz,"6-2, 6-4, 6-0, 7-6, 6-0",160
+M0508,Wimbledon,2022,Final,Clay,Stefanos Alcaraz,Carlos Becker,90,96,Stefanos Alcaraz,"6-4, 6-4, 6-0",142
+M0509,Wimbledon,2023,Final,Grass,Pete Djokovic,Stefanos McEnroe,3,66,Pete Djokovic,"7-6, 6-4, 7-6, 6-0",149
+M0510,Australian Open,2018,Third Round,Clay,Novak Federer,Novak Murray,12,96,Novak Federer,"6-0, 6-1, 7-5, 6-4, 6-1",234
+M0511,US Open,2014,First Round,Hard,Andy Tsitsipas,Carlos Becker,58,26,Carlos Becker,"6-1, 6-1, 6-1",150
+M0512,US Open,2015,Semifinal,Hard,Roger Djokovic,Roger Murray,83,48,Roger Murray,"6-4, 6-1, 6-1, 6-2",111
+M0513,French Open,2003,Semifinal,Grass,Boris Sampras,Stefanos Becker,63,4,Stefanos Becker,"6-0, 6-1, 6-0",174
+M0514,French Open,2001,First Round,Clay,Pete Medvedev,Novak McEnroe,22,99,Pete Medvedev,"6-1, 6-4, 7-6",210
+M0515,US Open,2022,Third Round,Clay,Andy Federer,Boris Alcaraz,26,67,Andy Federer,"7-6, 6-4, 6-3, 6-0",150
+M0516,US Open,2001,Second Round,Hard,Novak Sampras,Rafael McEnroe,47,98,Novak Sampras,"6-1, 6-2, 6-3, 6-3",143
+M0517,French Open,2004,Third Round,Hard,Daniil Djokovic,Roger Nadal,44,28,Roger Nadal,"6-0, 6-4, 6-4",120
+M0518,French Open,2008,Third Round,Grass,Carlos Sampras,Boris Alcaraz,70,36,Boris Alcaraz,"6-4, 7-5, 7-6, 6-0",157
+M0519,French Open,2003,First Round,Grass,Pete Alcaraz,Roger Becker,34,11,Roger Becker,"6-3, 6-2, 6-0, 6-4",126
+M0520,Wimbledon,2021,Quarterfinal,Grass,John Sampras,Stefanos Tsitsipas,64,14,Stefanos Tsitsipas,"7-6, 6-4, 7-6",102
+M0521,US Open,2012,Semifinal,Hard,Boris Nadal,Andy Djokovic,14,14,Andy Djokovic,"7-5, 6-2, 6-0",133
+M0522,Wimbledon,2009,Quarterfinal,Hard,Pete Federer,Pete Becker,98,88,Pete Becker,"7-5, 6-0, 6-3, 6-4",129
+M0523,US Open,2000,Quarterfinal,Clay,Stefanos Becker,Carlos Alcaraz,18,5,Carlos Alcaraz,"6-0, 7-6, 7-6, 6-2",219
+M0524,US Open,2020,Second Round,Hard,Andy Tsitsipas,John Medvedev,8,54,Andy Tsitsipas,"6-1, 7-6, 7-6, 6-2, 6-1",96
+M0525,French Open,2016,Final,Clay,Rafael Federer,Rafael Djokovic,40,18,Rafael Djokovic,"7-5, 7-6, 6-0, 7-5, 6-2",143
+M0526,US Open,2006,Semifinal,Grass,Boris Medvedev,Rafael Tsitsipas,15,7,Rafael Tsitsipas,"6-3, 7-6, 7-6, 6-3, 6-2",169
+M0527,US Open,2008,Semifinal,Hard,Pete Becker,Daniil Nadal,58,7,Daniil Nadal,"6-0, 6-3, 6-3, 6-4, 6-0",137
+M0528,US Open,2017,First Round,Grass,Daniil Federer,Andy Federer,51,17,Andy Federer,"6-0, 7-6, 6-2, 7-6, 6-2",134
+M0529,Wimbledon,2021,Quarterfinal,Clay,Andy Medvedev,Pete Djokovic,72,11,Pete Djokovic,"6-3, 6-0, 7-6",234
+M0530,French Open,2020,First Round,Hard,Andy Alcaraz,Boris Becker,31,70,Andy Alcaraz,"6-0, 7-6, 6-2",130
+M0531,French Open,2004,Third Round,Grass,Rafael Sampras,Roger Federer,6,94,Rafael Sampras,"7-6, 6-3, 6-4, 6-3, 6-4",126
+M0532,French Open,2018,Final,Grass,Stefanos Djokovic,Rafael Alcaraz,5,54,Stefanos Djokovic,"6-2, 6-3, 7-5, 6-2, 6-2",135
+M0533,Australian Open,2016,Third Round,Clay,John Federer,Daniil McEnroe,32,71,John Federer,"6-1, 7-6, 7-6",207
+M0534,Australian Open,2002,Quarterfinal,Hard,Novak Becker,Daniil Medvedev,85,10,Daniil Medvedev,"6-1, 6-2, 6-2",99
+M0535,French Open,2010,Second Round,Hard,Pete Sampras,Andy Medvedev,51,82,Pete Sampras,"6-4, 6-1, 6-3, 6-2",142
+M0536,US Open,2008,First Round,Grass,Novak Medvedev,Daniil Medvedev,57,63,Novak Medvedev,"6-0, 7-5, 7-6, 6-0",149
+M0537,French Open,2001,Final,Grass,Pete Murray,Roger Sampras,25,97,Pete Murray,"6-3, 6-2, 6-2, 6-1",135
+M0538,Australian Open,2010,Third Round,Clay,Carlos Tsitsipas,John Becker,10,9,John Becker,"6-1, 6-3, 7-6, 7-5",222
+M0539,Australian Open,2021,Quarterfinal,Clay,Andy Nadal,Pete Becker,74,100,Andy Nadal,"6-0, 6-2, 6-2",144
+M0540,Australian Open,2022,Quarterfinal,Clay,Boris Murray,Roger Djokovic,76,84,Boris Murray,"6-2, 7-6, 7-6",131
+M0541,Australian Open,2022,Semifinal,Clay,Novak Becker,John McEnroe,6,70,Novak Becker,"6-3, 7-5, 7-6, 6-3",143
+M0542,French Open,2005,Second Round,Hard,Rafael Sampras,Novak McEnroe,26,25,Novak McEnroe,"6-4, 7-6, 6-3, 6-2",124
+M0543,US Open,2012,Semifinal,Hard,Daniil Tsitsipas,Pete Nadal,100,63,Pete Nadal,"7-5, 6-0, 6-2, 7-6, 7-6",116
+M0544,Wimbledon,2012,Quarterfinal,Grass,Andy Medvedev,Stefanos McEnroe,1,25,Andy Medvedev,"7-6, 6-0, 6-4, 7-5, 6-0",148
+M0545,French Open,2011,Third Round,Clay,Roger Federer,Andy Tsitsipas,79,96,Roger Federer,"6-4, 6-3, 6-2, 6-0, 6-2",141
+M0546,Wimbledon,2002,Semifinal,Grass,Roger Djokovic,Boris Medvedev,76,95,Roger Djokovic,"6-2, 6-3, 7-6, 6-3",175
+M0547,US Open,2004,First Round,Clay,Stefanos Federer,Stefanos Murray,69,89,Stefanos Federer,"6-0, 6-0, 6-2",195
+M0548,Wimbledon,2020,Semifinal,Grass,Carlos Tsitsipas,John Djokovic,96,90,John Djokovic,"6-4, 6-1, 6-1",150
+M0549,French Open,2012,First Round,Grass,Stefanos Sampras,Andy Djokovic,13,90,Stefanos Sampras,"7-6, 7-6, 6-3",178
+M0550,Wimbledon,2023,First Round,Grass,Stefanos Djokovic,Stefanos Murray,6,17,Stefanos Djokovic,"7-6, 7-5, 7-5, 7-5",151
+M0551,French Open,2004,Semifinal,Grass,John Medvedev,Pete Nadal,85,82,Pete Nadal,"6-0, 6-2, 6-0",176
+M0552,US Open,2011,Third Round,Hard,Novak Murray,Boris Sampras,38,2,Boris Sampras,"7-6, 7-5, 7-5, 7-5",118
+M0553,Australian Open,2006,Final,Clay,Boris Djokovic,John Nadal,93,41,John Nadal,"6-4, 6-2, 6-4, 6-4, 7-6",240
+M0554,French Open,2011,First Round,Clay,Rafael Sampras,Pete McEnroe,48,100,Rafael Sampras,"6-3, 6-0, 6-2, 6-1, 6-0",218
+M0555,US Open,2004,Second Round,Hard,Rafael Sampras,Boris Sampras,8,21,Rafael Sampras,"6-3, 6-2, 7-6, 7-5, 6-4",92
+M0556,French Open,2007,Third Round,Grass,Novak Alcaraz,Pete Becker,79,70,Pete Becker,"6-3, 6-1, 6-1, 6-4",104
+M0557,Wimbledon,2008,Third Round,Grass,Novak Tsitsipas,Roger McEnroe,10,42,Novak Tsitsipas,"6-0, 6-3, 7-5, 6-2, 6-0",172
+M0558,Australian Open,2019,Semifinal,Grass,Pete McEnroe,Daniil Nadal,32,61,Pete McEnroe,"6-4, 7-6, 6-0, 7-6, 7-5",167
+M0559,Australian Open,2012,First Round,Hard,Rafael Nadal,Roger Nadal,59,83,Rafael Nadal,"6-0, 6-4, 7-6",149
+M0560,French Open,2020,Third Round,Hard,Boris Nadal,Andy McEnroe,40,52,Boris Nadal,"6-1, 7-6, 7-5, 6-2",115
+M0561,Australian Open,2019,Final,Grass,Daniil McEnroe,Roger Alcaraz,91,22,Roger Alcaraz,"6-2, 6-2, 6-3, 6-3, 7-5",126
+M0562,French Open,2017,Semifinal,Clay,Novak Becker,Pete Sampras,93,10,Pete Sampras,"6-4, 6-0, 6-1",165
+M0563,Australian Open,2019,Quarterfinal,Grass,Boris Medvedev,John Nadal,41,46,Boris Medvedev,"7-5, 6-3, 6-3, 6-2, 6-0",163
+M0564,French Open,2015,Quarterfinal,Clay,Novak Alcaraz,Daniil Tsitsipas,39,33,Daniil Tsitsipas,"6-4, 7-5, 6-0",210
+M0565,French Open,2019,Quarterfinal,Clay,John Murray,John Alcaraz,76,17,John Alcaraz,"7-5, 6-3, 6-3",239
+M0566,US Open,2016,Quarterfinal,Clay,Rafael Federer,Rafael McEnroe,31,89,Rafael Federer,"7-6, 7-6, 6-1",183
+M0567,US Open,2018,First Round,Grass,Roger Sampras,Novak Tsitsipas,79,44,Novak Tsitsipas,"6-2, 6-1, 7-5, 7-5",102
+M0568,Australian Open,2014,Semifinal,Clay,Daniil Murray,John Murray,30,89,Daniil Murray,"6-1, 6-0, 6-3",145
+M0569,Australian Open,2006,First Round,Grass,Novak Medvedev,Andy Federer,66,27,Andy Federer,"6-2, 7-5, 6-1, 6-2, 6-3",174
+M0570,French Open,2001,Quarterfinal,Grass,Carlos Sampras,Pete Djokovic,59,83,Carlos Sampras,"7-5, 6-2, 6-2, 6-0",140
+M0571,French Open,2002,Quarterfinal,Hard,Daniil Medvedev,Roger McEnroe,27,99,Daniil Medvedev,"6-1, 6-0, 6-3",107
+M0572,Wimbledon,2021,Second Round,Grass,Stefanos Federer,John Djokovic,83,78,John Djokovic,"6-4, 6-3, 6-2, 6-0, 6-2",171
+M0573,French Open,2013,Quarterfinal,Hard,John Federer,Boris Federer,9,29,John Federer,"6-4, 6-4, 7-5, 6-0",120
+M0574,French Open,2013,Second Round,Hard,Rafael McEnroe,Pete Tsitsipas,57,7,Pete Tsitsipas,"6-3, 6-4, 7-5",131
+M0575,Wimbledon,2010,First Round,Clay,Boris Djokovic,Pete Medvedev,7,69,Boris Djokovic,"6-3, 7-5, 6-1, 7-5, 6-2",182
+M0576,Wimbledon,2019,Semifinal,Grass,Andy McEnroe,Rafael Murray,60,29,Rafael Murray,"6-0, 6-4, 6-1, 6-4, 6-0",154
+M0577,Wimbledon,2006,Quarterfinal,Hard,Novak McEnroe,John McEnroe,84,67,John McEnroe,"6-2, 6-3, 6-4",126
+M0578,French Open,2012,Second Round,Hard,Novak McEnroe,Daniil Becker,1,74,Novak McEnroe,"6-3, 6-3, 7-6, 6-3",141
+M0579,French Open,2009,Second Round,Clay,Daniil Medvedev,Andy Djokovic,69,15,Andy Djokovic,"6-2, 6-3, 6-3",180
+M0580,Wimbledon,2002,First Round,Clay,Roger Sampras,Daniil Tsitsipas,90,50,Daniil Tsitsipas,"6-4, 6-0, 7-5, 6-2",141
+M0581,US Open,2012,Final,Clay,Novak Sampras,Rafael Alcaraz,7,65,Novak Sampras,"6-1, 6-4, 6-0, 6-3, 6-1",145
+M0582,French Open,2016,First Round,Clay,Rafael Federer,Boris Medvedev,24,98,Rafael Federer,"7-5, 6-0, 6-2",216
+M0583,US Open,2016,Quarterfinal,Grass,Roger Federer,Carlos Nadal,68,48,Carlos Nadal,"6-3, 6-2, 7-6, 6-4",137
+M0584,Wimbledon,2021,Quarterfinal,Hard,Daniil Becker,John McEnroe,61,29,John McEnroe,"7-6, 6-1, 7-5, 6-3, 6-4",94
+M0585,Wimbledon,2018,Semifinal,Clay,Andy Tsitsipas,John McEnroe,15,32,Andy Tsitsipas,"6-2, 7-6, 6-1",217
+M0586,US Open,2023,Final,Clay,Stefanos Djokovic,John Becker,46,37,John Becker,"6-1, 6-2, 7-5, 6-3, 6-1",206
+M0587,Australian Open,2021,Semifinal,Clay,Rafael Djokovic,Daniil Federer,67,54,Daniil Federer,"6-1, 7-5, 6-1, 7-6, 6-4",121
+M0588,Australian Open,2013,Second Round,Hard,John Federer,Stefanos Murray,56,72,John Federer,"6-4, 7-5, 6-1, 6-3, 6-2",135
+M0589,Wimbledon,2006,Third Round,Hard,Rafael McEnroe,Pete Federer,42,69,Rafael McEnroe,"6-3, 6-3, 6-4",148
+M0590,Wimbledon,2016,Quarterfinal,Hard,Boris Alcaraz,Carlos Medvedev,53,56,Boris Alcaraz,"6-1, 6-1, 6-3, 7-6",105
+M0591,Wimbledon,2017,Third Round,Hard,Stefanos Murray,Andy Djokovic,11,44,Stefanos Murray,"6-1, 6-4, 6-0, 7-6, 7-5",136
+M0592,French Open,2010,Second Round,Grass,Andy Federer,Novak Tsitsipas,6,64,Andy Federer,"6-4, 7-6, 6-0",133
+M0593,US Open,2013,Second Round,Grass,Boris Alcaraz,Novak McEnroe,49,23,Novak McEnroe,"7-5, 6-4, 6-4",132
+M0594,Australian Open,2022,Third Round,Hard,Pete Murray,Roger Murray,78,79,Pete Murray,"6-4, 6-4, 6-3",122
+M0595,French Open,2014,Semifinal,Clay,John Murray,Rafael Federer,2,21,John Murray,"6-0, 7-6, 6-0",181
+M0596,French Open,2013,Third Round,Hard,Andy Murray,Stefanos Becker,63,53,Stefanos Becker,"6-0, 6-4, 6-3, 6-3",124
+M0597,Wimbledon,2003,Second Round,Clay,Boris Nadal,Stefanos Becker,88,76,Stefanos Becker,"6-4, 7-6, 6-1",198
+M0598,Wimbledon,2016,Third Round,Grass,John Tsitsipas,Pete Sampras,81,79,Pete Sampras,"6-0, 7-6, 6-0, 6-1, 6-2",143
+M0599,US Open,2019,Second Round,Hard,Roger Murray,Pete Tsitsipas,89,7,Pete Tsitsipas,"6-4, 6-3, 7-5",111
+M0600,French Open,2020,First Round,Clay,Roger Becker,Andy Djokovic,99,50,Andy Djokovic,"6-1, 6-4, 6-1",143
+M0601,French Open,2003,First Round,Grass,Roger Sampras,John Djokovic,66,23,John Djokovic,"7-5, 6-2, 7-5, 6-4, 6-3",113
+M0602,French Open,2003,Second Round,Hard,Rafael Sampras,Boris Federer,4,65,Rafael Sampras,"6-1, 7-5, 7-5",126
+M0603,Australian Open,2008,Quarterfinal,Hard,John Nadal,Pete Becker,76,5,Pete Becker,"6-3, 6-0, 6-2, 6-4, 6-3",121
+M0604,US Open,2005,Second Round,Clay,Andy Murray,Roger Djokovic,32,28,Roger Djokovic,"6-4, 6-2, 6-0",129
+M0605,Australian Open,2012,Quarterfinal,Hard,Carlos Nadal,Boris McEnroe,76,17,Boris McEnroe,"6-2, 6-0, 6-3",134
+M0606,Australian Open,2014,Semifinal,Grass,Pete Nadal,Carlos Djokovic,74,11,Carlos Djokovic,"7-5, 7-6, 6-3",130
+M0607,Australian Open,2008,First Round,Clay,John Medvedev,Andy Alcaraz,35,65,John Medvedev,"7-6, 6-0, 7-5",218
+M0608,Wimbledon,2001,Third Round,Clay,John Becker,Pete Becker,51,77,John Becker,"6-3, 6-4, 6-2, 6-4",138
+M0609,French Open,2012,Final,Hard,Carlos Sampras,John Becker,49,94,Carlos Sampras,"6-3, 7-5, 6-1",137
+M0610,US Open,2020,Final,Hard,Carlos Alcaraz,Pete Becker,81,61,Pete Becker,"6-2, 7-5, 6-4, 6-2, 6-4",123
+M0611,French Open,2009,Third Round,Grass,John Murray,John McEnroe,56,49,John McEnroe,"6-3, 6-0, 6-3",158
+M0612,French Open,2012,Quarterfinal,Hard,Carlos Sampras,Boris Federer,32,15,Boris Federer,"6-3, 6-2, 7-6, 6-1, 6-3",102
+M0613,Wimbledon,2011,Third Round,Hard,Pete Djokovic,Carlos Sampras,99,93,Carlos Sampras,"6-4, 6-4, 6-2, 7-6",145
+M0614,French Open,2016,Semifinal,Clay,Andy Nadal,John Nadal,58,48,John Nadal,"6-0, 6-2, 6-1, 6-1",127
+M0615,US Open,2010,First Round,Clay,Novak Becker,Boris Sampras,33,3,Boris Sampras,"6-4, 6-2, 6-2, 6-0, 6-0",140
+M0616,US Open,2017,Second Round,Clay,John Sampras,Stefanos Sampras,37,27,Stefanos Sampras,"6-2, 7-5, 6-4, 6-1, 6-3",217
+M0617,French Open,2002,Quarterfinal,Clay,Stefanos Alcaraz,Novak Becker,81,56,Novak Becker,"7-6, 6-1, 6-3",182
+M0618,US Open,2010,Final,Grass,Boris Medvedev,Rafael McEnroe,41,35,Rafael McEnroe,"6-3, 7-6, 7-5, 6-1, 6-0",105
+M0619,French Open,2013,Second Round,Hard,Rafael Djokovic,Roger Nadal,93,9,Roger Nadal,"6-3, 6-4, 6-1, 7-6, 6-0",133
+M0620,Wimbledon,2023,Semifinal,Clay,Pete Tsitsipas,Boris Becker,74,48,Boris Becker,"6-1, 6-0, 6-4",212
+M0621,French Open,2011,First Round,Hard,Rafael Tsitsipas,John Becker,55,20,John Becker,"6-0, 6-2, 7-5, 6-1",101
+M0622,Australian Open,2012,Third Round,Grass,Carlos Nadal,Carlos Sampras,61,84,Carlos Nadal,"6-1, 7-6, 6-0",125
+M0623,US Open,2022,Quarterfinal,Grass,Daniil Tsitsipas,Roger Alcaraz,42,53,Daniil Tsitsipas,"6-2, 6-3, 6-1, 6-4, 6-1",120
+M0624,French Open,2006,First Round,Hard,Rafael Sampras,Stefanos Murray,47,31,Stefanos Murray,"7-5, 6-1, 7-6, 7-6, 6-1",90
+M0625,US Open,2009,Third Round,Clay,Andy Federer,Roger McEnroe,7,54,Andy Federer,"6-0, 6-4, 6-3",229
+M0626,French Open,2014,Third Round,Clay,Carlos Tsitsipas,Rafael Sampras,95,98,Carlos Tsitsipas,"6-0, 6-1, 6-4, 6-0, 7-6",163
+M0627,French Open,2015,First Round,Hard,Carlos Sampras,Stefanos Murray,90,41,Stefanos Murray,"6-0, 7-6, 6-1, 7-5",145
+M0628,Australian Open,2003,Final,Hard,Carlos Medvedev,John Nadal,83,43,John Nadal,"6-4, 7-6, 6-3, 6-4, 6-2",133
+M0629,Australian Open,2020,Second Round,Hard,Rafael Tsitsipas,Andy McEnroe,13,88,Rafael Tsitsipas,"6-4, 6-4, 6-2",111
+M0630,Australian Open,2004,First Round,Clay,Roger Becker,Boris Becker,55,7,Boris Becker,"7-6, 6-2, 6-3",150
+M0631,French Open,2015,Second Round,Hard,Novak Tsitsipas,Daniil Medvedev,24,83,Novak Tsitsipas,"7-6, 6-3, 7-6, 6-3",102
+M0632,Wimbledon,2017,Second Round,Hard,Andy Alcaraz,Roger Tsitsipas,90,23,Roger Tsitsipas,"6-2, 6-3, 6-4, 6-1",137
+M0633,Wimbledon,2004,Final,Clay,Novak Djokovic,Pete Djokovic,58,98,Novak Djokovic,"6-1, 6-1, 6-3, 6-1, 6-2",157
+M0634,Australian Open,2003,Final,Hard,John Becker,Roger Tsitsipas,79,87,John Becker,"6-4, 7-5, 7-5",104
+M0635,US Open,2009,Final,Clay,Pete Tsitsipas,Roger Alcaraz,65,34,Roger Alcaraz,"6-1, 6-1, 6-3, 6-1",138
+M0636,US Open,2004,Second Round,Hard,Andy Federer,Boris Alcaraz,61,24,Boris Alcaraz,"7-5, 6-3, 6-4",101
+M0637,US Open,2003,Second Round,Grass,John Alcaraz,Rafael Murray,29,18,Rafael Murray,"6-3, 6-3, 6-0, 6-0",167
+M0638,French Open,2003,Quarterfinal,Grass,Boris Federer,Andy Djokovic,2,94,Boris Federer,"7-5, 7-5, 6-2, 6-4, 6-4",151
+M0639,Wimbledon,2008,Final,Clay,John Alcaraz,John Alcaraz,25,92,John Alcaraz,"6-3, 7-5, 6-4, 6-4, 6-4",218
+M0640,Australian Open,2013,Third Round,Hard,Daniil Nadal,Boris McEnroe,73,95,Daniil Nadal,"6-1, 6-3, 7-6, 6-4",116
+M0641,Australian Open,2021,Third Round,Grass,Daniil Djokovic,Carlos Alcaraz,64,93,Daniil Djokovic,"6-3, 6-3, 6-4, 6-3, 6-2",150
+M0642,Wimbledon,2012,Quarterfinal,Grass,Carlos Sampras,Stefanos Djokovic,24,71,Carlos Sampras,"6-3, 6-0, 6-3",178
+M0643,US Open,2018,Quarterfinal,Hard,Rafael Becker,Stefanos Nadal,62,29,Stefanos Nadal,"6-0, 6-0, 6-0",91
+M0644,US Open,2022,Second Round,Hard,Boris Sampras,Pete Becker,10,33,Boris Sampras,"6-3, 6-1, 6-3, 6-2",99
+M0645,French Open,2013,Final,Clay,Pete Tsitsipas,Carlos Murray,70,62,Carlos Murray,"7-6, 7-6, 7-6",210
+M0646,French Open,2015,Quarterfinal,Clay,Boris Tsitsipas,Rafael Murray,56,87,Boris Tsitsipas,"6-3, 7-6, 7-5",171
+M0647,US Open,2006,First Round,Clay,Rafael Tsitsipas,Rafael Alcaraz,66,41,Rafael Alcaraz,"6-4, 7-6, 6-4",197
+M0648,US Open,2019,Quarterfinal,Clay,Carlos McEnroe,John Nadal,30,59,Carlos McEnroe,"7-5, 6-0, 7-5, 7-5",151
+M0649,Wimbledon,2001,Quarterfinal,Hard,Rafael Sampras,Rafael Becker,59,97,Rafael Sampras,"6-4, 6-3, 6-3",142
+M0650,Wimbledon,2015,First Round,Hard,John Djokovic,Daniil Nadal,82,76,Daniil Nadal,"6-4, 7-6, 7-5",136
+M0651,Australian Open,2013,Final,Clay,Roger Medvedev,Daniil Medvedev,83,85,Roger Medvedev,"6-4, 6-2, 6-2, 6-2",178
+M0652,French Open,2002,Final,Clay,Rafael Federer,Pete McEnroe,97,29,Pete McEnroe,"7-6, 7-5, 6-1, 6-0, 7-5",146
+M0653,French Open,2023,Third Round,Hard,John McEnroe,Roger Djokovic,64,21,Roger Djokovic,"6-3, 6-0, 6-2, 6-2, 6-1",145
+M0654,US Open,2019,Quarterfinal,Clay,Pete Becker,Andy McEnroe,22,90,Pete Becker,"6-1, 7-6, 7-5, 6-3, 6-3",179
+M0655,Wimbledon,2021,First Round,Hard,Andy McEnroe,Pete Sampras,32,1,Pete Sampras,"6-1, 7-6, 6-2, 7-6",133
+M0656,Australian Open,2010,Final,Grass,Rafael Tsitsipas,Pete Djokovic,70,90,Rafael Tsitsipas,"7-5, 7-6, 6-0",129
+M0657,French Open,2007,Final,Clay,John Nadal,Daniil Djokovic,80,71,Daniil Djokovic,"7-5, 6-1, 7-6",221
+M0658,US Open,2005,Final,Grass,Roger Federer,Stefanos Alcaraz,78,26,Stefanos Alcaraz,"6-3, 7-5, 6-2, 7-5, 6-0",144
+M0659,French Open,2011,Second Round,Clay,Stefanos Tsitsipas,Daniil Medvedev,19,99,Stefanos Tsitsipas,"6-3, 6-0, 6-0, 6-4",153
+M0660,Australian Open,2002,Third Round,Clay,Roger Federer,Carlos Sampras,30,93,Roger Federer,"6-0, 6-0, 6-3",131
+M0661,Wimbledon,2020,Third Round,Clay,Andy Medvedev,John Djokovic,39,32,John Djokovic,"7-5, 7-5, 6-2",233
+M0662,French Open,2019,Final,Clay,Daniil Djokovic,Carlos McEnroe,76,31,Carlos McEnroe,"6-1, 6-0, 7-5, 6-1, 6-2",134
+M0663,French Open,2007,Final,Grass,Roger Nadal,Boris McEnroe,21,8,Boris McEnroe,"6-2, 6-1, 6-4",101
+M0664,French Open,2011,First Round,Grass,Boris Sampras,Boris Sampras,59,90,Boris Sampras,"6-1, 7-5, 6-1",166
+M0665,Australian Open,2013,First Round,Clay,Novak Djokovic,Pete McEnroe,29,50,Novak Djokovic,"6-0, 6-4, 6-0, 7-6",151
+M0666,Wimbledon,2010,Final,Hard,John Medvedev,Rafael Federer,6,44,John Medvedev,"6-1, 7-6, 6-4, 6-2",135
+M0667,Wimbledon,2009,Third Round,Grass,Boris McEnroe,Novak Becker,21,45,Boris McEnroe,"6-1, 6-4, 6-4",144
+M0668,French Open,2008,Quarterfinal,Hard,Andy Alcaraz,Carlos Federer,98,14,Carlos Federer,"6-1, 6-3, 6-4",150
+M0669,French Open,2004,Final,Grass,Andy Tsitsipas,Rafael Nadal,95,57,Rafael Nadal,"6-4, 6-4, 6-3",167
+M0670,Wimbledon,2012,Semifinal,Grass,Rafael Alcaraz,John Sampras,34,92,Rafael Alcaraz,"6-3, 7-6, 6-0, 7-5",110
+M0671,Australian Open,2020,Final,Clay,Roger Alcaraz,Daniil Alcaraz,86,7,Daniil Alcaraz,"6-2, 6-2, 7-5, 6-3, 7-6",203
+M0672,Wimbledon,2006,First Round,Clay,John McEnroe,Roger Nadal,19,9,Roger Nadal,"7-5, 6-3, 7-6, 6-0, 6-0",229
+M0673,Australian Open,2016,Second Round,Clay,Andy Djokovic,John Sampras,48,69,Andy Djokovic,"6-1, 6-3, 6-0, 6-2",230
+M0674,French Open,2010,Final,Hard,Roger Tsitsipas,Carlos Alcaraz,50,82,Roger Tsitsipas,"7-5, 7-5, 6-1, 7-5, 6-4",122
+M0675,US Open,2020,Second Round,Clay,John Sampras,Carlos Medvedev,89,77,Carlos Medvedev,"7-5, 6-3, 6-1, 6-1",135
+M0676,French Open,2023,Final,Hard,Carlos Sampras,Carlos McEnroe,5,36,Carlos Sampras,"7-5, 6-1, 7-5",92
+M0677,Wimbledon,2016,Semifinal,Clay,Daniil Nadal,Stefanos Becker,44,86,Daniil Nadal,"6-4, 6-2, 6-2, 6-4, 6-1",214
+M0678,Australian Open,2013,Quarterfinal,Hard,Carlos Becker,Roger Sampras,99,50,Roger Sampras,"6-4, 7-6, 6-4, 6-3, 6-3",136
+M0679,French Open,2011,Second Round,Clay,Daniil Sampras,Daniil McEnroe,100,86,Daniil McEnroe,"7-5, 7-6, 6-2",179
+M0680,Australian Open,2023,Third Round,Hard,Rafael Alcaraz,Carlos Alcaraz,30,54,Rafael Alcaraz,"6-1, 6-0, 6-4",133
+M0681,Australian Open,2013,Second Round,Clay,Rafael Djokovic,Daniil Alcaraz,20,78,Rafael Djokovic,"6-2, 6-2, 7-5, 6-0",230
+M0682,US Open,2000,Third Round,Hard,Stefanos Djokovic,Stefanos Sampras,7,45,Stefanos Djokovic,"7-6, 6-4, 6-4",110
+M0683,US Open,2013,Third Round,Clay,Daniil Alcaraz,Novak Medvedev,68,2,Novak Medvedev,"7-5, 6-3, 6-2",178
+M0684,US Open,2018,First Round,Grass,Andy Medvedev,Daniil Nadal,9,78,Andy Medvedev,"6-1, 6-2, 7-6, 7-5, 6-4",135
+M0685,Australian Open,2005,Third Round,Clay,Pete Alcaraz,Carlos Medvedev,82,51,Carlos Medvedev,"6-0, 7-6, 7-5",230
+M0686,US Open,2020,Final,Grass,John Medvedev,John Alcaraz,19,92,John Medvedev,"6-1, 6-0, 7-5, 6-1, 6-4",180
+M0687,US Open,2012,Second Round,Hard,John Medvedev,Daniil Tsitsipas,24,94,John Medvedev,"6-1, 7-6, 6-2",97
+M0688,Australian Open,2021,Semifinal,Clay,Stefanos Djokovic,Boris Tsitsipas,11,52,Stefanos Djokovic,"6-2, 6-0, 6-3, 6-1",179
+M0689,Wimbledon,2012,First Round,Clay,Novak McEnroe,Stefanos Sampras,26,25,Stefanos Sampras,"7-5, 6-1, 7-6",186
+M0690,US Open,2022,Quarterfinal,Hard,Stefanos Medvedev,Novak Becker,70,70,Novak Becker,"6-3, 6-0, 6-1",132
+M0691,US Open,2022,First Round,Grass,Andy Medvedev,Novak Sampras,28,50,Andy Medvedev,"6-4, 6-4, 6-0, 6-4",148
+M0692,Wimbledon,2004,Quarterfinal,Clay,Andy Federer,Boris Medvedev,30,46,Andy Federer,"6-3, 7-5, 6-3, 6-0",163
+M0693,French Open,2010,Semifinal,Clay,Rafael McEnroe,Novak McEnroe,16,89,Rafael McEnroe,"7-5, 6-4, 6-1, 7-6, 6-2",233
+M0694,Australian Open,2022,Final,Clay,Carlos Tsitsipas,Andy Sampras,74,30,Andy Sampras,"7-6, 6-1, 6-1",234
+M0695,US Open,2023,Final,Hard,Boris McEnroe,Boris McEnroe,4,90,Boris McEnroe,"6-1, 6-4, 6-2, 6-4",118
+M0696,French Open,2001,Second Round,Clay,Daniil Nadal,Boris Nadal,32,9,Boris Nadal,"7-5, 7-6, 7-6, 6-2",178
+M0697,Wimbledon,2004,Final,Hard,Andy Murray,Roger Becker,23,15,Roger Becker,"7-5, 6-0, 7-6, 6-4, 7-5",108
+M0698,US Open,2013,Quarterfinal,Clay,Boris Djokovic,Pete Alcaraz,65,1,Pete Alcaraz,"6-2, 6-2, 6-0",134
+M0699,French Open,2003,Final,Grass,John Alcaraz,Stefanos Nadal,35,34,Stefanos Nadal,"6-1, 6-4, 6-4",177
+M0700,Wimbledon,2004,Third Round,Clay,Novak Tsitsipas,Carlos Djokovic,29,43,Novak Tsitsipas,"7-5, 6-2, 7-6, 7-5",234
+M0701,US Open,2020,Final,Hard,Roger Federer,Carlos Djokovic,44,30,Carlos Djokovic,"7-5, 6-3, 7-6",137
+M0702,Wimbledon,2013,Quarterfinal,Clay,Andy Djokovic,Daniil Federer,14,52,Andy Djokovic,"6-0, 6-0, 6-0",212
+M0703,French Open,2002,Third Round,Clay,Stefanos Alcaraz,Stefanos Medvedev,3,61,Stefanos Alcaraz,"6-1, 7-5, 7-6, 6-2, 6-0",210
+M0704,US Open,2023,Second Round,Grass,Boris Nadal,Pete Sampras,2,43,Boris Nadal,"6-1, 7-5, 6-4, 7-6, 6-4",134
+M0705,French Open,2018,Semifinal,Hard,Andy McEnroe,Roger Becker,10,26,Andy McEnroe,"7-5, 6-0, 6-4",126
+M0706,French Open,2017,Quarterfinal,Hard,Rafael Murray,Boris Alcaraz,45,15,Boris Alcaraz,"7-6, 6-1, 7-5, 6-1, 7-6",149
+M0707,French Open,2021,Final,Hard,Andy Medvedev,Pete Medvedev,73,87,Andy Medvedev,"7-6, 6-3, 6-3",90
+M0708,Wimbledon,2006,Second Round,Hard,Boris McEnroe,Stefanos Tsitsipas,65,74,Boris McEnroe,"6-0, 6-1, 6-4, 6-4, 6-4",146
+M0709,Wimbledon,2002,Third Round,Hard,Pete Sampras,Rafael Becker,55,79,Pete Sampras,"6-4, 6-3, 6-4",106
+M0710,French Open,2007,Semifinal,Grass,Roger Federer,Novak Becker,93,66,Novak Becker,"7-5, 7-6, 6-0, 6-3",139
+M0711,Australian Open,2012,Final,Clay,Stefanos Sampras,Rafael Sampras,35,68,Stefanos Sampras,"7-6, 7-5, 6-3, 6-2",212
+M0712,Wimbledon,2023,Semifinal,Grass,Daniil Nadal,Novak Becker,16,93,Daniil Nadal,"6-1, 6-4, 6-2",144
+M0713,Wimbledon,2006,Third Round,Grass,Daniil Djokovic,Stefanos Sampras,73,90,Daniil Djokovic,"6-1, 6-4, 6-1, 7-6, 6-1",157
+M0714,Wimbledon,2002,Third Round,Hard,Daniil Federer,Pete Murray,71,26,Pete Murray,"7-6, 6-4, 7-6, 6-3, 6-2",95
+M0715,French Open,2014,First Round,Hard,Novak Sampras,Rafael McEnroe,10,57,Novak Sampras,"7-6, 6-3, 6-0, 6-3",130
+M0716,US Open,2012,Quarterfinal,Clay,Carlos Djokovic,Boris Federer,84,81,Boris Federer,"6-0, 6-0, 7-5, 6-0",192
+M0717,Wimbledon,2004,Second Round,Clay,Carlos Alcaraz,Pete McEnroe,95,75,Pete McEnroe,"6-1, 7-5, 6-0, 6-1",213
+M0718,Australian Open,2008,Second Round,Clay,Novak Medvedev,Carlos Federer,62,4,Carlos Federer,"7-6, 6-0, 6-2, 7-6",162
+M0719,US Open,2020,Third Round,Grass,Boris Sampras,Novak Becker,42,53,Boris Sampras,"6-4, 6-2, 6-1",154
+M0720,Wimbledon,2023,First Round,Grass,Carlos Federer,Stefanos Alcaraz,35,68,Carlos Federer,"6-0, 7-6, 6-2",104
+M0721,French Open,2016,Second Round,Clay,Pete McEnroe,Stefanos Tsitsipas,90,26,Stefanos Tsitsipas,"6-4, 7-5, 6-4, 6-3, 6-2",165
+M0722,US Open,2022,First Round,Grass,Daniil Federer,Novak Murray,76,45,Novak Murray,"6-4, 6-4, 6-3, 6-0, 7-6",113
+M0723,Australian Open,2000,Semifinal,Hard,Stefanos Djokovic,Daniil Murray,34,85,Stefanos Djokovic,"6-1, 6-4, 6-4, 6-3",99
+M0724,French Open,2013,First Round,Clay,Andy Federer,Pete Medvedev,8,68,Andy Federer,"6-3, 6-4, 6-4, 7-6, 6-2",138
+M0725,French Open,2007,Third Round,Grass,Stefanos Sampras,Pete Djokovic,4,9,Stefanos Sampras,"7-6, 7-5, 6-2, 6-2, 6-4",165
+M0726,French Open,2020,Second Round,Grass,Pete McEnroe,John Nadal,17,34,Pete McEnroe,"7-6, 7-5, 7-6",144
+M0727,Wimbledon,2018,Semifinal,Grass,Boris Sampras,Boris Nadal,30,78,Boris Sampras,"7-5, 7-6, 6-2, 7-6",147
+M0728,Wimbledon,2023,First Round,Grass,Stefanos Sampras,Novak Becker,72,75,Stefanos Sampras,"6-1, 6-2, 6-3, 6-3",129
+M0729,Wimbledon,2018,Quarterfinal,Grass,Roger Alcaraz,Novak Federer,35,80,Roger Alcaraz,"6-1, 7-6, 6-4",135
+M0730,Australian Open,2010,Third Round,Hard,Boris Nadal,Andy Djokovic,42,24,Andy Djokovic,"6-4, 6-4, 6-3, 6-2",138
+M0731,Australian Open,2009,Third Round,Grass,Daniil Federer,John Becker,99,94,John Becker,"6-3, 6-1, 6-2, 6-0",110
+M0732,Australian Open,2003,Third Round,Hard,Stefanos Becker,Novak Nadal,87,31,Novak Nadal,"6-1, 7-5, 6-2",137
+M0733,French Open,2018,Second Round,Clay,John Becker,Boris Medvedev,69,93,John Becker,"6-1, 6-3, 6-3, 6-1",154
+M0734,US Open,2019,First Round,Hard,Andy Medvedev,Andy Federer,98,28,Andy Federer,"6-3, 6-4, 6-4, 6-2",90
+M0735,Australian Open,2014,Second Round,Grass,Daniil Federer,Novak Djokovic,97,87,Novak Djokovic,"7-6, 6-0, 6-0, 6-3, 6-2",144
+M0736,Wimbledon,2002,Third Round,Hard,Andy Federer,Stefanos Alcaraz,83,65,Stefanos Alcaraz,"6-4, 7-5, 7-5, 6-3, 6-4",128
+M0737,Australian Open,2006,Third Round,Clay,Pete Nadal,Rafael Medvedev,22,1,Rafael Medvedev,"6-1, 6-3, 6-4, 6-1, 6-3",173
+M0738,Australian Open,2020,Quarterfinal,Grass,Pete Medvedev,Daniil McEnroe,89,85,Daniil McEnroe,"6-4, 6-2, 6-4",162
+M0739,Australian Open,2000,Quarterfinal,Grass,Daniil Alcaraz,Stefanos Medvedev,85,45,Stefanos Medvedev,"6-4, 6-4, 6-4",179
+M0740,French Open,2019,Final,Clay,Boris Nadal,Boris McEnroe,17,49,Boris Nadal,"7-5, 7-5, 7-6, 6-4",182
+M0741,Australian Open,2016,Third Round,Hard,Rafael Nadal,Andy Becker,98,23,Andy Becker,"7-5, 7-6, 7-6, 6-3",118
+M0742,US Open,2007,First Round,Clay,Andy Medvedev,Daniil Medvedev,3,11,Andy Medvedev,"7-5, 6-0, 7-5, 6-2",156
+M0743,Wimbledon,2004,Third Round,Hard,Daniil Sampras,Boris Murray,30,40,Daniil Sampras,"6-2, 6-0, 7-6, 6-1, 7-6",97
+M0744,Wimbledon,2017,Third Round,Grass,Andy Becker,Boris McEnroe,70,86,Andy Becker,"6-1, 7-5, 7-5",162
+M0745,French Open,2016,Quarterfinal,Grass,Daniil Medvedev,Stefanos McEnroe,13,6,Stefanos McEnroe,"7-6, 6-3, 6-3",140
+M0746,French Open,2004,First Round,Clay,Roger Alcaraz,Roger Tsitsipas,70,52,Roger Tsitsipas,"7-6, 6-4, 7-5, 6-4, 6-0",228
+M0747,Wimbledon,2018,Semifinal,Hard,Stefanos Nadal,Stefanos Federer,8,93,Stefanos Nadal,"6-4, 6-0, 6-0",112
+M0748,Wimbledon,2017,Quarterfinal,Clay,Andy Alcaraz,Pete McEnroe,65,68,Andy Alcaraz,"7-6, 6-3, 6-4, 6-2",124
+M0749,Australian Open,2009,Third Round,Grass,Rafael Murray,Rafael Alcaraz,21,30,Rafael Murray,"6-3, 7-5, 6-0, 7-6, 6-3",147
+M0750,US Open,2016,Third Round,Grass,Carlos Alcaraz,Novak Murray,38,58,Carlos Alcaraz,"7-5, 6-3, 6-3, 6-4",137
+M0751,Australian Open,2004,Quarterfinal,Hard,Carlos Federer,Pete Medvedev,13,84,Carlos Federer,"7-5, 6-2, 6-2, 6-2, 6-3",142
+M0752,Wimbledon,2007,Third Round,Grass,John Sampras,Andy Nadal,36,24,Andy Nadal,"7-6, 7-5, 6-0, 6-1, 6-2",179
+M0753,French Open,2013,Semifinal,Grass,Carlos Sampras,Andy Alcaraz,97,21,Andy Alcaraz,"6-3, 7-5, 6-2",106
+M0754,Wimbledon,2018,Second Round,Clay,Stefanos Alcaraz,Rafael Federer,36,17,Rafael Federer,"6-4, 7-5, 6-3, 7-5",206
+M0755,US Open,2003,First Round,Clay,Rafael McEnroe,Andy Alcaraz,82,74,Andy Alcaraz,"6-1, 6-4, 6-1",162
+M0756,Australian Open,2008,Second Round,Clay,Pete Alcaraz,Stefanos Sampras,61,23,Stefanos Sampras,"6-3, 7-5, 6-1",216
+M0757,Australian Open,2021,Third Round,Grass,Pete Murray,Rafael Tsitsipas,96,85,Rafael Tsitsipas,"6-0, 7-6, 6-2, 6-3, 6-2",119
+M0758,French Open,2010,Third Round,Hard,Stefanos Djokovic,Boris Sampras,67,67,Boris Sampras,"7-6, 7-5, 7-6",99
+M0759,Australian Open,2019,Second Round,Hard,Stefanos Nadal,John Nadal,65,61,John Nadal,"6-2, 7-5, 6-3, 6-3, 6-0",143
+M0760,Wimbledon,2011,Semifinal,Grass,Boris Sampras,John McEnroe,64,80,Boris Sampras,"6-4, 6-1, 7-5, 6-2",142
+M0761,Australian Open,2009,First Round,Hard,Andy Murray,Rafael Murray,96,10,Rafael Murray,"7-5, 7-6, 6-0",98
+M0762,Australian Open,2018,Second Round,Clay,Rafael Becker,Novak McEnroe,83,24,Novak McEnroe,"6-2, 6-0, 6-4, 6-4, 6-3",192
+M0763,US Open,2017,Second Round,Grass,Boris Alcaraz,Roger Alcaraz,71,71,Roger Alcaraz,"6-0, 7-5, 6-0, 7-6",114
+M0764,Wimbledon,2013,Final,Grass,Andy Tsitsipas,Novak Nadal,1,14,Andy Tsitsipas,"7-6, 6-1, 6-3, 6-4, 6-3",127
+M0765,Australian Open,2010,Final,Grass,Pete Alcaraz,John Tsitsipas,95,83,John Tsitsipas,"6-4, 6-3, 6-2, 6-3, 6-1",173
+M0766,French Open,2013,First Round,Grass,Pete Djokovic,Pete Nadal,7,97,Pete Djokovic,"6-4, 7-5, 6-4, 7-6, 6-3",158
+M0767,Australian Open,2003,Final,Grass,Carlos McEnroe,Andy Djokovic,60,77,Carlos McEnroe,"7-5, 6-0, 7-6, 6-2, 6-2",146
+M0768,Wimbledon,2008,First Round,Grass,John Medvedev,Rafael Nadal,80,39,Rafael Nadal,"6-1, 6-2, 6-0, 6-1",129
+M0769,Wimbledon,2019,Third Round,Grass,Boris Nadal,Daniil Medvedev,62,17,Daniil Medvedev,"6-3, 7-6, 6-1",153
+M0770,Wimbledon,2011,Final,Grass,Roger Alcaraz,Andy Medvedev,64,94,Roger Alcaraz,"6-1, 6-0, 6-4",175
+M0771,US Open,2022,Final,Hard,Andy Tsitsipas,Novak Becker,18,68,Andy Tsitsipas,"6-3, 7-6, 7-6, 6-1",105
+M0772,Wimbledon,2011,Second Round,Clay,Andy McEnroe,Carlos Medvedev,92,36,Carlos Medvedev,"6-3, 6-3, 7-5, 6-0",168
+M0773,Wimbledon,2013,Third Round,Grass,Roger Sampras,Novak Tsitsipas,35,34,Novak Tsitsipas,"6-4, 6-1, 6-2, 7-5, 6-1",127
+M0774,Australian Open,2001,Semifinal,Hard,John Federer,Novak Sampras,61,51,Novak Sampras,"6-4, 6-0, 6-3, 6-4",96
+M0775,Australian Open,2000,Quarterfinal,Grass,Rafael Murray,Boris Federer,67,57,Boris Federer,"6-1, 6-1, 6-2, 6-0, 6-0",125
+M0776,Australian Open,2009,Second Round,Hard,Pete McEnroe,Novak Federer,89,95,Pete McEnroe,"7-6, 6-2, 7-5, 6-1",131
+M0777,US Open,2000,Second Round,Clay,Stefanos Becker,Carlos Medvedev,76,97,Stefanos Becker,"6-0, 7-6, 7-5, 7-5",166
+M0778,Australian Open,2000,Third Round,Hard,Carlos Murray,Carlos Alcaraz,61,50,Carlos Alcaraz,"6-1, 6-1, 6-2, 7-6",119
+M0779,Wimbledon,2003,Second Round,Grass,Carlos Federer,John Federer,95,66,John Federer,"6-3, 7-5, 7-6, 6-2, 6-4",141
+M0780,Australian Open,2007,Final,Grass,Boris Federer,Novak Becker,73,83,Boris Federer,"7-6, 6-0, 6-1",152
+M0781,Australian Open,2011,Third Round,Hard,Stefanos Nadal,Andy Becker,95,73,Andy Becker,"6-1, 6-2, 6-3",135
+M0782,Wimbledon,2004,Final,Grass,Novak Alcaraz,Rafael Djokovic,39,53,Novak Alcaraz,"6-1, 6-0, 6-0, 6-0, 6-3",116
+M0783,US Open,2018,Quarterfinal,Grass,Rafael Federer,Andy Becker,51,93,Rafael Federer,"6-1, 7-6, 6-3, 6-4",124
+M0784,Wimbledon,2015,Semifinal,Clay,Carlos Djokovic,Roger Sampras,3,67,Carlos Djokovic,"7-6, 6-2, 7-5",124
+M0785,US Open,2015,First Round,Hard,Daniil Djokovic,Carlos Becker,5,19,Daniil Djokovic,"6-2, 6-0, 7-5",149
+M0786,Australian Open,2009,Third Round,Grass,Carlos Becker,Carlos Sampras,58,50,Carlos Sampras,"6-4, 6-1, 7-5",126
+M0787,Wimbledon,2000,Third Round,Hard,Daniil Nadal,Carlos Alcaraz,97,26,Carlos Alcaraz,"6-4, 7-6, 7-6, 6-1, 6-0",95
+M0788,Wimbledon,2008,Second Round,Grass,Andy Djokovic,Daniil Sampras,99,88,Daniil Sampras,"6-2, 6-0, 6-0",123
+M0789,US Open,2004,Third Round,Hard,Pete Federer,John Djokovic,62,23,John Djokovic,"7-5, 7-6, 6-3, 7-6",120
+M0790,US Open,2001,Second Round,Hard,Rafael Becker,Novak Nadal,2,70,Rafael Becker,"7-6, 7-6, 6-3, 7-5, 6-3",108
+M0791,US Open,2017,Final,Hard,Daniil Becker,Pete Sampras,62,97,Daniil Becker,"6-4, 6-3, 6-4, 6-4, 6-4",98
+M0792,Australian Open,2018,Semifinal,Hard,Roger McEnroe,Pete Sampras,74,24,Pete Sampras,"7-5, 6-0, 7-6, 7-6",141
+M0793,Australian Open,2003,Second Round,Clay,Boris Medvedev,Daniil Murray,31,12,Daniil Murray,"6-1, 6-3, 7-6",206
+M0794,Wimbledon,2004,First Round,Grass,Carlos Djokovic,Carlos Sampras,53,68,Carlos Djokovic,"6-0, 6-3, 6-2",135
+M0795,Australian Open,2004,Second Round,Grass,Pete Medvedev,Stefanos Murray,67,11,Stefanos Murray,"6-2, 6-3, 7-6",129
+M0796,Australian Open,2006,Final,Hard,Stefanos Becker,John Sampras,73,1,John Sampras,"7-5, 6-4, 6-0",104
+M0797,Australian Open,2012,Third Round,Clay,John Medvedev,Carlos Medvedev,74,23,Carlos Medvedev,"6-2, 6-2, 6-3, 7-6, 6-0",139
+M0798,US Open,2003,First Round,Grass,Boris Alcaraz,John Medvedev,25,39,Boris Alcaraz,"6-2, 6-0, 6-3, 7-6",170
+M0799,Wimbledon,2015,First Round,Clay,Carlos Tsitsipas,Stefanos Murray,59,13,Stefanos Murray,"7-6, 6-1, 6-3, 7-5",138
+M0800,US Open,2003,Quarterfinal,Hard,Pete Murray,John Murray,20,83,Pete Murray,"7-5, 7-6, 6-0, 7-5",96
+M0801,Wimbledon,2016,Third Round,Hard,Daniil Nadal,Rafael McEnroe,9,92,Daniil Nadal,"6-4, 7-5, 7-6",132
+M0802,French Open,2011,Quarterfinal,Grass,Andy Becker,Daniil Nadal,55,21,Daniil Nadal,"6-4, 6-3, 7-5, 6-4",141
+M0803,Wimbledon,2011,Second Round,Hard,Pete Federer,Novak Djokovic,71,16,Novak Djokovic,"7-5, 6-4, 6-0",94
+M0804,Wimbledon,2008,Semifinal,Grass,Daniil Nadal,John Becker,31,76,Daniil Nadal,"6-3, 6-3, 6-4, 7-5, 6-0",124
+M0805,French Open,2019,First Round,Grass,Pete McEnroe,Rafael Alcaraz,94,27,Rafael Alcaraz,"7-5, 6-3, 6-2, 6-1",104
+M0806,Wimbledon,2009,Third Round,Hard,Pete Federer,Rafael Nadal,42,48,Pete Federer,"7-5, 6-3, 6-4",113
+M0807,French Open,2012,Quarterfinal,Clay,Roger Alcaraz,Carlos Sampras,12,37,Roger Alcaraz,"6-0, 7-5, 6-0, 7-6",139
+M0808,US Open,2022,First Round,Clay,Carlos Sampras,Novak Djokovic,66,65,Novak Djokovic,"7-5, 6-2, 7-6, 6-2",126
+M0809,French Open,2020,Third Round,Clay,Carlos Alcaraz,Rafael Tsitsipas,39,50,Carlos Alcaraz,"6-4, 6-2, 7-6, 6-2",140
+M0810,Australian Open,2013,Third Round,Hard,Stefanos McEnroe,Roger Murray,52,13,Roger Murray,"6-4, 7-5, 6-2, 6-2, 6-0",91
+M0811,US Open,2001,Quarterfinal,Clay,Roger Nadal,Rafael Becker,14,99,Roger Nadal,"6-4, 6-4, 6-0",227
+M0812,Wimbledon,2012,Third Round,Clay,Andy Murray,Boris Medvedev,9,37,Andy Murray,"6-2, 7-6, 7-6",228
+M0813,Wimbledon,2018,Semifinal,Clay,Carlos Djokovic,Stefanos Sampras,56,50,Stefanos Sampras,"7-6, 6-2, 6-2, 7-6, 7-6",154
+M0814,Wimbledon,2023,Semifinal,Clay,Pete Sampras,John Medvedev,50,42,John Medvedev,"7-5, 7-6, 6-3",170
+M0815,Australian Open,2014,First Round,Grass,Roger Becker,Daniil Murray,80,43,Daniil Murray,"7-5, 6-2, 6-3, 7-6, 6-0",167
+M0816,US Open,2022,Second Round,Grass,Novak Medvedev,Daniil Becker,13,84,Novak Medvedev,"6-3, 6-4, 6-1",136
+M0817,French Open,2009,Quarterfinal,Hard,John Nadal,Andy Djokovic,46,46,Andy Djokovic,"7-6, 6-2, 6-3, 6-3, 6-1",129
+M0818,French Open,2006,First Round,Hard,Novak Murray,Stefanos Federer,94,18,Stefanos Federer,"6-1, 6-1, 6-1, 6-1, 7-6",112
+M0819,US Open,2003,Final,Hard,Carlos Djokovic,Andy McEnroe,99,22,Andy McEnroe,"6-0, 6-4, 6-0",105
+M0820,Australian Open,2016,Second Round,Clay,Carlos McEnroe,Pete Nadal,66,98,Carlos McEnroe,"6-2, 6-4, 6-4",161
+M0821,French Open,2014,Final,Hard,Rafael Medvedev,Daniil Federer,88,64,Daniil Federer,"6-4, 6-2, 6-0, 6-3, 6-2",112
+M0822,French Open,2000,Third Round,Clay,Pete Nadal,Daniil Medvedev,47,66,Pete Nadal,"6-4, 6-4, 6-0, 7-6",201
+M0823,US Open,2005,Semifinal,Clay,Rafael Murray,Novak Becker,86,2,Novak Becker,"6-4, 7-6, 6-0, 6-1, 6-3",209
+M0824,US Open,2016,Quarterfinal,Grass,Andy Medvedev,Daniil Tsitsipas,59,2,Daniil Tsitsipas,"6-0, 7-6, 6-4, 7-5, 6-0",171
+M0825,US Open,2018,First Round,Clay,John Medvedev,Pete Nadal,64,9,Pete Nadal,"6-3, 7-6, 7-6",215
+M0826,French Open,2009,Third Round,Hard,Roger McEnroe,Boris Federer,1,33,Roger McEnroe,"7-5, 6-3, 7-6",136
+M0827,Australian Open,2017,Final,Clay,Stefanos Becker,Daniil Nadal,82,24,Daniil Nadal,"7-5, 6-0, 6-3, 6-0",154
+M0828,Australian Open,2000,Quarterfinal,Clay,Daniil Becker,Novak McEnroe,39,91,Daniil Becker,"7-6, 6-2, 7-6",194
+M0829,French Open,2009,Third Round,Grass,Novak Becker,Rafael Tsitsipas,51,53,Novak Becker,"7-6, 6-4, 6-0",120
+M0830,US Open,2022,Third Round,Clay,Stefanos Federer,Stefanos Alcaraz,56,100,Stefanos Federer,"6-4, 6-1, 6-1, 7-5",136
+M0831,US Open,2011,First Round,Clay,Novak Medvedev,Pete Becker,42,95,Novak Medvedev,"7-5, 7-5, 7-5, 6-2",135
+M0832,Australian Open,2018,Quarterfinal,Clay,John McEnroe,Roger McEnroe,3,1,Roger McEnroe,"6-0, 6-0, 6-0, 6-2, 6-2",160
+M0833,Wimbledon,2001,Third Round,Grass,Pete Becker,Carlos Murray,37,17,Carlos Murray,"6-3, 6-4, 7-6, 6-4, 7-5",118
+M0834,US Open,2020,Second Round,Hard,Roger McEnroe,Rafael Djokovic,64,57,Rafael Djokovic,"6-3, 6-2, 6-3, 6-3, 6-3",127
+M0835,French Open,2012,Semifinal,Hard,Boris Medvedev,John Sampras,3,38,Boris Medvedev,"6-1, 6-2, 6-1, 6-0, 7-6",135
+M0836,Wimbledon,2000,First Round,Clay,John McEnroe,Novak Becker,20,53,John McEnroe,"7-5, 7-5, 6-2, 6-0, 6-0",190
+M0837,Wimbledon,2012,Quarterfinal,Grass,Pete McEnroe,John McEnroe,52,18,John McEnroe,"7-5, 6-3, 6-2",117
+M0838,Australian Open,2021,Quarterfinal,Hard,Andy Djokovic,Daniil Becker,49,9,Daniil Becker,"6-0, 6-3, 6-0, 7-6",104
+M0839,French Open,2016,Third Round,Clay,Andy Medvedev,Novak Djokovic,56,67,Andy Medvedev,"6-3, 6-3, 6-3, 6-2",235
+M0840,US Open,2022,First Round,Hard,Pete Tsitsipas,Novak Djokovic,86,32,Novak Djokovic,"6-1, 6-1, 7-6",143
+M0841,Australian Open,2022,Final,Clay,Roger Djokovic,Stefanos Alcaraz,4,9,Roger Djokovic,"7-6, 7-6, 7-6, 6-3",222
+M0842,French Open,2000,Semifinal,Hard,Andy Sampras,Pete McEnroe,59,64,Andy Sampras,"7-5, 6-1, 6-0, 6-4, 6-4",106
+M0843,Wimbledon,2015,First Round,Hard,Novak Medvedev,Pete Becker,6,46,Novak Medvedev,"7-6, 7-5, 6-1",123
+M0844,Australian Open,2022,Final,Clay,Andy Nadal,Daniil Alcaraz,58,92,Andy Nadal,"6-0, 7-6, 6-1, 6-0",139
+M0845,Wimbledon,2010,Quarterfinal,Hard,Roger Tsitsipas,Andy Sampras,86,68,Andy Sampras,"6-4, 6-0, 6-4, 6-2",115
+M0846,US Open,2002,Third Round,Hard,Boris McEnroe,John Medvedev,12,47,Boris McEnroe,"6-0, 6-0, 6-0, 7-5",123
+M0847,Australian Open,2003,First Round,Clay,Stefanos Tsitsipas,John Federer,90,15,John Federer,"6-4, 6-0, 6-2",188
+M0848,US Open,2012,First Round,Hard,Boris Medvedev,Pete Sampras,91,93,Boris Medvedev,"6-4, 6-1, 7-5, 7-5",112
+M0849,French Open,2003,First Round,Grass,Pete Murray,John Djokovic,44,50,Pete Murray,"7-6, 7-5, 7-6, 7-5, 6-3",108
+M0850,Australian Open,2012,Third Round,Grass,Roger Murray,Daniil Federer,41,65,Roger Murray,"7-5, 6-3, 6-1, 6-4",129
+M0851,French Open,2005,First Round,Clay,Rafael Sampras,Roger Federer,73,48,Roger Federer,"6-1, 7-6, 6-0",156
+M0852,Wimbledon,2002,Final,Grass,Roger Medvedev,John Alcaraz,85,32,John Alcaraz,"6-3, 6-1, 7-6",156
+M0853,French Open,2006,First Round,Clay,Pete Becker,Pete Alcaraz,7,41,Pete Becker,"6-3, 6-1, 6-1, 6-3",225
+M0854,Australian Open,2019,Quarterfinal,Clay,Novak Medvedev,John Sampras,28,58,Novak Medvedev,"6-2, 6-2, 6-4",165
+M0855,French Open,2015,Final,Clay,Novak Djokovic,Daniil Murray,66,45,Daniil Murray,"6-1, 6-3, 6-3",212
+M0856,French Open,2002,Final,Clay,Stefanos Tsitsipas,John Becker,56,53,John Becker,"6-4, 6-0, 7-6, 7-6",224
+M0857,US Open,2002,Third Round,Hard,Pete Federer,Roger Medvedev,54,9,Roger Medvedev,"6-4, 7-5, 6-0, 6-4",107
+M0858,French Open,2021,Semifinal,Hard,Pete McEnroe,Pete Federer,61,77,Pete McEnroe,"6-1, 7-6, 6-4, 6-0, 6-4",131
+M0859,Wimbledon,2009,Final,Hard,Pete Medvedev,Carlos Federer,61,96,Pete Medvedev,"7-5, 6-0, 6-2, 7-5",120
+M0860,Australian Open,2016,Final,Hard,John Sampras,Andy Alcaraz,94,76,Andy Alcaraz,"6-2, 6-4, 6-0, 6-0",115
+M0861,US Open,2017,Semifinal,Hard,Pete McEnroe,Andy Becker,89,58,Andy Becker,"6-3, 7-6, 6-2",121
+M0862,French Open,2018,Second Round,Grass,Pete Murray,Carlos Becker,92,90,Carlos Becker,"7-5, 6-0, 6-2",134
+M0863,French Open,2020,Final,Hard,Daniil Murray,Boris McEnroe,68,37,Boris McEnroe,"7-5, 7-6, 6-4, 6-2, 7-5",143
+M0864,Australian Open,2006,Quarterfinal,Clay,Carlos Alcaraz,Stefanos Djokovic,80,59,Stefanos Djokovic,"6-0, 7-6, 6-3",177
+M0865,US Open,2019,First Round,Hard,Rafael McEnroe,Carlos Sampras,8,99,Rafael McEnroe,"6-3, 7-6, 6-4, 6-1",113
+M0866,Wimbledon,2004,Third Round,Hard,Novak Murray,John Medvedev,90,23,John Medvedev,"6-0, 7-5, 7-5, 6-2",125
+M0867,French Open,2015,Semifinal,Clay,Carlos Becker,Carlos Murray,31,89,Carlos Becker,"6-0, 7-6, 6-4, 7-5",211
+M0868,French Open,2008,Semifinal,Clay,Pete Becker,Carlos Nadal,34,13,Carlos Nadal,"6-0, 6-2, 6-1, 6-2, 6-3",191
+M0869,US Open,2022,First Round,Hard,Rafael Tsitsipas,Carlos Tsitsipas,71,71,Carlos Tsitsipas,"6-2, 6-0, 7-5",100
+M0870,Australian Open,2001,First Round,Clay,Pete Murray,Roger Federer,53,4,Roger Federer,"6-4, 7-5, 6-4",188
+M0871,Wimbledon,2016,Quarterfinal,Clay,Andy Djokovic,John Nadal,42,68,Andy Djokovic,"7-6, 6-2, 6-3, 6-2",142
+M0872,US Open,2018,Third Round,Grass,Rafael Medvedev,Rafael Tsitsipas,2,52,Rafael Medvedev,"7-6, 6-4, 6-3",142
+M0873,US Open,2011,Quarterfinal,Clay,Novak Alcaraz,Rafael Nadal,41,26,Rafael Nadal,"6-2, 6-1, 7-6, 6-1, 7-5",217
+M0874,Australian Open,2013,Semifinal,Hard,Novak McEnroe,Daniil Nadal,56,76,Novak McEnroe,"7-6, 7-6, 7-6, 7-5",129
+M0875,Australian Open,2010,First Round,Hard,Carlos Tsitsipas,Pete Medvedev,33,12,Pete Medvedev,"6-2, 7-6, 6-3, 7-6",122
+M0876,Australian Open,2007,Quarterfinal,Hard,Novak Alcaraz,Carlos Djokovic,28,60,Novak Alcaraz,"6-1, 7-6, 7-5, 7-6, 7-6",97
+M0877,French Open,2003,Third Round,Grass,Novak Sampras,Pete Alcaraz,10,52,Novak Sampras,"6-1, 6-4, 6-4, 6-3",128
+M0878,US Open,2019,First Round,Hard,Rafael Becker,Stefanos Murray,71,31,Stefanos Murray,"6-3, 6-4, 6-1",143
+M0879,French Open,2005,Semifinal,Clay,Carlos Djokovic,Andy Murray,62,66,Carlos Djokovic,"7-5, 6-1, 6-3, 6-2",136
+M0880,Australian Open,2022,First Round,Hard,John Becker,Carlos Becker,42,73,John Becker,"6-0, 6-3, 7-5",140
+M0881,Wimbledon,2000,Second Round,Hard,Andy Murray,Boris McEnroe,80,80,Boris McEnroe,"7-5, 7-5, 6-0, 7-6, 7-6",150
+M0882,Wimbledon,2013,Third Round,Clay,Stefanos Alcaraz,John Tsitsipas,55,38,John Tsitsipas,"7-6, 6-2, 7-5, 6-0",187
+M0883,US Open,2001,Final,Hard,Roger Tsitsipas,Daniil Becker,75,75,Daniil Becker,"6-1, 6-1, 6-4",122
+M0884,Wimbledon,2019,Third Round,Grass,Boris Medvedev,Rafael Becker,81,18,Rafael Becker,"6-4, 6-2, 6-0, 6-0",125
+M0885,Australian Open,2006,Third Round,Hard,Andy Alcaraz,Boris Djokovic,86,97,Andy Alcaraz,"6-0, 7-5, 6-0",144
+M0886,Wimbledon,2012,Final,Grass,Daniil McEnroe,Novak Becker,1,38,Daniil McEnroe,"6-0, 6-2, 6-1, 7-6, 7-6",145
+M0887,French Open,2013,Semifinal,Hard,Rafael Nadal,Boris Medvedev,84,89,Rafael Nadal,"6-0, 6-2, 6-4",95
+M0888,French Open,2009,Semifinal,Clay,Stefanos Djokovic,Daniil Sampras,12,77,Stefanos Djokovic,"7-6, 6-3, 7-6",212
+M0889,US Open,2007,Semifinal,Grass,Carlos Tsitsipas,John Medvedev,8,87,Carlos Tsitsipas,"7-6, 6-3, 7-5",111
+M0890,US Open,2010,Final,Grass,Daniil Nadal,John Sampras,42,85,Daniil Nadal,"7-6, 6-2, 6-4, 6-0, 6-0",171
+M0891,French Open,2000,Third Round,Grass,Boris Sampras,Boris McEnroe,41,80,Boris Sampras,"7-5, 6-2, 6-3",172
+M0892,French Open,2001,Semifinal,Clay,Rafael Tsitsipas,John Nadal,100,68,John Nadal,"6-2, 7-5, 6-0",151
+M0893,French Open,2020,Quarterfinal,Hard,Novak McEnroe,Boris Sampras,36,4,Boris Sampras,"6-0, 6-1, 6-0",107
+M0894,Australian Open,2017,Second Round,Clay,John Federer,Stefanos McEnroe,14,64,John Federer,"6-2, 6-4, 7-5",181
+M0895,French Open,2001,Quarterfinal,Grass,Boris Medvedev,Carlos Tsitsipas,23,35,Boris Medvedev,"7-6, 7-5, 6-0, 6-1, 7-5",168
+M0896,Wimbledon,2000,Second Round,Grass,Carlos Becker,Rafael Alcaraz,23,8,Rafael Alcaraz,"6-1, 6-3, 6-1, 6-0, 7-5",131
+M0897,Australian Open,2014,First Round,Grass,Novak Medvedev,Roger Alcaraz,10,71,Novak Medvedev,"6-0, 6-1, 6-4, 6-4, 7-5",177
+M0898,US Open,2014,Third Round,Hard,Novak Sampras,Roger Medvedev,50,79,Novak Sampras,"7-6, 7-5, 7-5, 6-4, 6-2",136
+M0899,US Open,2014,Third Round,Hard,Boris Tsitsipas,Rafael McEnroe,96,13,Rafael McEnroe,"7-5, 6-0, 6-1, 7-6",104
+M0900,Wimbledon,2018,Semifinal,Clay,Novak Alcaraz,Roger Becker,51,99,Novak Alcaraz,"6-3, 6-1, 7-6, 7-5",234
+M0901,Australian Open,2012,First Round,Clay,Roger Murray,Rafael Medvedev,11,67,Roger Murray,"7-5, 6-4, 6-0",213
+M0902,Wimbledon,2013,Quarterfinal,Clay,Roger Alcaraz,Boris Tsitsipas,65,47,Boris Tsitsipas,"6-0, 7-6, 6-3, 7-6, 6-3",164
+M0903,Australian Open,2002,First Round,Hard,Novak Nadal,Boris Nadal,37,77,Novak Nadal,"6-3, 6-3, 7-5",127
+M0904,French Open,2023,First Round,Grass,Boris Becker,John Federer,39,29,John Federer,"7-5, 6-2, 6-1",130
+M0905,US Open,2000,Second Round,Grass,Boris Federer,Roger Murray,28,62,Boris Federer,"7-5, 6-0, 7-6, 7-5",105
+M0906,French Open,2018,First Round,Grass,Rafael Djokovic,Pete Nadal,18,87,Rafael Djokovic,"6-0, 6-3, 6-1, 6-2, 6-0",169
+M0907,French Open,2015,Second Round,Grass,Pete Nadal,Carlos McEnroe,91,43,Carlos McEnroe,"7-6, 6-1, 6-3, 6-2, 6-0",116
+M0908,US Open,2022,Semifinal,Clay,Roger Murray,Roger Alcaraz,27,65,Roger Murray,"6-0, 6-0, 6-1, 6-2, 6-1",154
+M0909,French Open,2007,Quarterfinal,Clay,Novak Federer,Carlos Sampras,85,99,Novak Federer,"6-0, 7-5, 6-1, 6-0",217
+M0910,Wimbledon,2016,Third Round,Grass,Andy Medvedev,Daniil Murray,57,72,Andy Medvedev,"7-6, 6-0, 6-3, 6-0, 7-6",130
+M0911,US Open,2015,Quarterfinal,Grass,Carlos Tsitsipas,Carlos Medvedev,18,7,Carlos Medvedev,"6-3, 7-5, 6-3, 6-4",164
+M0912,US Open,2003,Quarterfinal,Clay,Carlos Medvedev,Roger Sampras,64,40,Roger Sampras,"7-6, 6-2, 6-4",207
+M0913,Wimbledon,2017,Semifinal,Clay,Daniil Djokovic,Boris Alcaraz,19,61,Daniil Djokovic,"6-0, 6-4, 6-3, 6-4, 6-1",159
+M0914,US Open,2009,Quarterfinal,Clay,Novak Sampras,Carlos Sampras,10,58,Novak Sampras,"6-2, 7-5, 6-1",154
+M0915,Wimbledon,2009,Quarterfinal,Clay,Stefanos Murray,Roger Djokovic,76,47,Roger Djokovic,"6-0, 7-6, 6-0",237
+M0916,Wimbledon,2008,First Round,Clay,Rafael Alcaraz,Daniil Alcaraz,1,77,Rafael Alcaraz,"7-5, 6-2, 6-0",222
+M0917,US Open,2001,Quarterfinal,Hard,Daniil Alcaraz,Andy Medvedev,31,89,Daniil Alcaraz,"6-1, 6-1, 7-6",90
+M0918,US Open,2013,Third Round,Grass,Novak Nadal,Roger Medvedev,65,21,Roger Medvedev,"6-4, 6-2, 6-0",175
+M0919,Australian Open,2005,Final,Grass,Pete Murray,Boris Nadal,100,46,Boris Nadal,"6-2, 6-0, 6-4, 6-3, 6-1",130
+M0920,French Open,2017,First Round,Grass,Boris McEnroe,John Medvedev,40,35,John Medvedev,"6-1, 6-1, 7-5, 6-0, 6-1",156
+M0921,Wimbledon,2009,First Round,Grass,Andy Alcaraz,Pete Sampras,29,50,Andy Alcaraz,"7-6, 6-0, 6-3",116
+M0922,Wimbledon,2007,Semifinal,Grass,Carlos Becker,Roger Medvedev,71,74,Carlos Becker,"6-0, 7-6, 7-6, 7-5, 6-4",161
+M0923,Wimbledon,2020,Final,Clay,Andy Nadal,Boris Sampras,49,18,Boris Sampras,"6-3, 6-3, 6-1, 6-3, 6-4",188
+M0924,Australian Open,2006,First Round,Grass,John Tsitsipas,Carlos Federer,83,56,Carlos Federer,"6-3, 7-6, 7-6, 7-5",147
+M0925,French Open,2021,Second Round,Clay,Roger Nadal,Stefanos Alcaraz,78,59,Stefanos Alcaraz,"6-4, 6-1, 6-0, 7-6",236
+M0926,Australian Open,2002,Third Round,Hard,Pete Sampras,Andy McEnroe,75,20,Andy McEnroe,"6-4, 6-2, 6-0, 7-5, 6-1",122
+M0927,Australian Open,2011,Quarterfinal,Grass,Boris Djokovic,Boris McEnroe,98,95,Boris McEnroe,"7-6, 6-1, 6-2",116
+M0928,French Open,2008,First Round,Clay,Roger Federer,Andy Federer,9,35,Roger Federer,"7-6, 6-4, 6-2, 6-4",168
+M0929,French Open,2013,Final,Clay,Novak Federer,Stefanos Sampras,30,65,Novak Federer,"6-3, 7-6, 7-5, 6-2",169
+M0930,Wimbledon,2008,Semifinal,Grass,Daniil Sampras,Carlos McEnroe,34,77,Daniil Sampras,"6-4, 7-6, 6-4, 6-3, 6-3",170
+M0931,Wimbledon,2004,First Round,Clay,Novak Tsitsipas,Andy McEnroe,86,14,Andy McEnroe,"6-4, 7-5, 6-4, 6-1",176
+M0932,Australian Open,2020,First Round,Hard,Stefanos Becker,Daniil Federer,13,59,Stefanos Becker,"6-4, 6-2, 7-6, 6-3, 6-2",118
+M0933,Australian Open,2021,First Round,Grass,Andy Murray,Boris Djokovic,68,41,Boris Djokovic,"6-4, 6-2, 7-5, 7-6",152
+M0934,French Open,2004,Semifinal,Grass,Carlos Becker,Novak Becker,34,81,Carlos Becker,"6-0, 6-0, 7-6",109
+M0935,Australian Open,2016,Third Round,Clay,Stefanos Medvedev,Rafael Murray,15,81,Stefanos Medvedev,"6-1, 7-5, 6-2",227
+M0936,French Open,2006,Quarterfinal,Grass,Rafael Nadal,Stefanos Sampras,60,58,Stefanos Sampras,"6-1, 6-3, 6-0, 6-3",101
+M0937,French Open,2014,First Round,Hard,Daniil McEnroe,Novak Murray,63,83,Daniil McEnroe,"6-2, 7-6, 6-4",110
+M0938,Australian Open,2009,Third Round,Grass,Andy Tsitsipas,Roger Alcaraz,38,73,Andy Tsitsipas,"6-3, 6-2, 6-0",114
+M0939,French Open,2014,Final,Grass,Daniil Alcaraz,Carlos McEnroe,52,80,Daniil Alcaraz,"7-6, 6-0, 6-0, 6-3",132
+M0940,French Open,2007,Third Round,Clay,Rafael Nadal,John Becker,18,60,Rafael Nadal,"7-6, 7-6, 6-0",163
+M0941,French Open,2007,First Round,Hard,Pete Murray,Daniil Djokovic,33,18,Daniil Djokovic,"6-1, 6-3, 6-3",134
+M0942,French Open,2022,Third Round,Hard,Rafael Nadal,Rafael Djokovic,18,85,Rafael Nadal,"6-1, 6-1, 6-2, 7-5, 7-5",102
+M0943,Wimbledon,2005,Quarterfinal,Grass,Roger Tsitsipas,Rafael Becker,33,3,Rafael Becker,"6-2, 6-1, 6-0, 6-2, 6-4",176
+M0944,French Open,2009,First Round,Grass,Roger Federer,Roger Djokovic,73,39,Roger Djokovic,"6-1, 7-6, 7-5, 6-1, 7-5",102
+M0945,Australian Open,2018,First Round,Clay,John Sampras,Roger McEnroe,74,58,Roger McEnroe,"7-5, 6-0, 6-3",225
+M0946,Wimbledon,2016,Quarterfinal,Grass,Pete Tsitsipas,Pete Sampras,14,46,Pete Tsitsipas,"6-2, 6-0, 6-2, 6-4",142
+M0947,Australian Open,2021,First Round,Grass,Roger Tsitsipas,Roger Medvedev,79,86,Roger Tsitsipas,"6-1, 6-0, 6-0",164
+M0948,US Open,2016,Quarterfinal,Grass,John Federer,John Federer,15,18,John Federer,"6-2, 6-3, 7-5, 6-4",180
+M0949,Wimbledon,2021,Final,Hard,John Djokovic,Roger Federer,72,45,Roger Federer,"6-1, 6-3, 7-5",90
+M0950,French Open,2010,Quarterfinal,Clay,Boris Tsitsipas,Rafael Tsitsipas,94,99,Boris Tsitsipas,"6-4, 6-3, 7-5, 6-2",221
+M0951,Australian Open,2020,Quarterfinal,Grass,Rafael Becker,John Nadal,43,87,Rafael Becker,"6-3, 6-2, 6-0, 7-6",156
+M0952,French Open,2009,Semifinal,Hard,Roger Sampras,Andy Medvedev,68,38,Andy Medvedev,"6-3, 6-0, 6-2, 6-4",113
+M0953,French Open,2022,Third Round,Hard,Roger Tsitsipas,Roger Murray,40,57,Roger Tsitsipas,"6-2, 6-1, 6-4, 6-4",105
+M0954,French Open,2002,Second Round,Clay,Carlos Murray,Andy McEnroe,63,6,Andy McEnroe,"6-0, 7-5, 7-6",175
+M0955,Wimbledon,2019,Second Round,Hard,Rafael Federer,John Alcaraz,84,68,John Alcaraz,"7-6, 7-6, 6-3",100
+M0956,French Open,2021,Second Round,Hard,Andy McEnroe,Novak Medvedev,86,10,Novak Medvedev,"7-6, 6-4, 6-1",128
+M0957,Australian Open,2008,First Round,Hard,Carlos McEnroe,Daniil Djokovic,8,35,Carlos McEnroe,"6-1, 6-4, 7-5",148
+M0958,French Open,2010,Third Round,Grass,Rafael Becker,Rafael Alcaraz,31,84,Rafael Becker,"7-5, 6-4, 6-4, 6-0, 6-4",141
+M0959,Wimbledon,2002,First Round,Clay,Rafael Becker,Stefanos Sampras,77,69,Stefanos Sampras,"6-2, 6-0, 7-5, 6-2, 7-6",216
+M0960,French Open,2003,Third Round,Clay,Daniil Federer,Daniil Djokovic,40,63,Daniil Federer,"7-6, 7-6, 6-2",183
+M0961,US Open,2003,Semifinal,Hard,Stefanos Sampras,Stefanos Alcaraz,68,100,Stefanos Sampras,"6-1, 6-4, 6-0, 6-4",104
+M0962,Australian Open,2018,Semifinal,Grass,Andy Alcaraz,Novak Medvedev,52,93,Andy Alcaraz,"6-4, 6-1, 6-1, 6-3",138
+M0963,Wimbledon,2019,Quarterfinal,Clay,Novak Alcaraz,Daniil Nadal,50,3,Daniil Nadal,"6-4, 6-2, 6-0",201
+M0964,Wimbledon,2008,Second Round,Hard,Daniil McEnroe,Roger Alcaraz,48,62,Daniil McEnroe,"6-1, 7-6, 7-5",109
+M0965,Wimbledon,2023,First Round,Hard,Pete Tsitsipas,Carlos Medvedev,27,60,Pete Tsitsipas,"6-4, 6-3, 6-4",123
+M0966,Australian Open,2016,Quarterfinal,Grass,Rafael Djokovic,Stefanos McEnroe,63,41,Stefanos McEnroe,"6-1, 6-0, 7-5",122
+M0967,French Open,2017,Semifinal,Grass,Daniil Nadal,Stefanos Tsitsipas,79,38,Stefanos Tsitsipas,"6-0, 7-5, 6-0, 6-2",168
+M0968,Wimbledon,2020,Second Round,Hard,Daniil McEnroe,Daniil Murray,27,88,Daniil McEnroe,"7-5, 6-2, 7-6, 6-0, 6-3",100
+M0969,Wimbledon,2012,Second Round,Clay,Roger Becker,Andy Becker,19,61,Roger Becker,"6-0, 7-5, 6-4",159
+M0970,French Open,2013,Semifinal,Clay,Rafael Medvedev,Andy Medvedev,62,52,Andy Medvedev,"6-3, 6-3, 6-0, 7-5, 7-6",121
+M0971,Australian Open,2002,First Round,Clay,Roger Nadal,Novak Federer,64,93,Roger Nadal,"6-2, 6-2, 7-6, 7-6, 6-1",126
+M0972,US Open,2007,Quarterfinal,Grass,Pete Alcaraz,Carlos Medvedev,14,72,Pete Alcaraz,"6-3, 6-3, 6-0, 6-0, 6-0",117
+M0973,Wimbledon,2015,Second Round,Grass,Pete Alcaraz,Roger Alcaraz,34,100,Pete Alcaraz,"6-3, 6-2, 6-3, 7-5",135
+M0974,French Open,2000,Second Round,Hard,Rafael Murray,Roger Alcaraz,1,97,Rafael Murray,"6-1, 6-0, 6-4, 6-0, 6-3",135
+M0975,US Open,2022,First Round,Grass,Rafael Nadal,Boris Medvedev,2,33,Rafael Nadal,"6-0, 6-0, 6-2, 6-1",117
+M0976,Australian Open,2006,Semifinal,Clay,Pete Murray,Stefanos Sampras,1,15,Pete Murray,"6-0, 6-0, 7-5, 6-0",198
+M0977,Australian Open,2019,Second Round,Clay,Rafael Tsitsipas,Roger Alcaraz,44,40,Roger Alcaraz,"6-2, 7-5, 6-1, 6-3, 7-5",215
+M0978,Australian Open,2011,Semifinal,Grass,Daniil Murray,Carlos Medvedev,93,43,Carlos Medvedev,"6-0, 6-4, 6-2",169
+M0979,French Open,2011,First Round,Clay,Stefanos Tsitsipas,Stefanos Sampras,1,66,Stefanos Tsitsipas,"6-0, 6-3, 6-2, 6-2",193
+M0980,French Open,2006,First Round,Grass,Novak Murray,Carlos Alcaraz,80,23,Carlos Alcaraz,"6-4, 6-2, 6-0, 6-4",132
+M0981,Australian Open,2023,Final,Grass,Rafael Becker,Carlos Alcaraz,59,56,Carlos Alcaraz,"6-3, 7-6, 6-2, 6-4, 6-1",120
+M0982,Wimbledon,2022,Quarterfinal,Clay,Roger Murray,John Medvedev,58,81,Roger Murray,"6-4, 6-0, 7-5",126
+M0983,French Open,2020,First Round,Hard,Roger Murray,John McEnroe,60,49,John McEnroe,"7-6, 6-1, 7-5, 7-6",92
+M0984,French Open,2014,First Round,Grass,Stefanos Tsitsipas,Novak Sampras,69,43,Novak Sampras,"7-5, 7-6, 7-6, 7-5, 6-3",117
+M0985,Australian Open,2006,Quarterfinal,Clay,Carlos Sampras,Carlos Alcaraz,84,58,Carlos Alcaraz,"6-2, 6-3, 7-6, 7-6",240
+M0986,US Open,2023,Second Round,Grass,Stefanos Murray,Roger Tsitsipas,64,73,Stefanos Murray,"6-0, 6-2, 6-2, 6-1, 7-6",112
+M0987,Australian Open,2006,First Round,Hard,Novak Federer,Rafael Sampras,21,53,Novak Federer,"6-0, 6-2, 6-3, 6-3",120
+M0988,Australian Open,2018,Final,Clay,John McEnroe,John Federer,4,33,John McEnroe,"7-5, 6-2, 6-2, 6-4",163
+M0989,Wimbledon,2015,Second Round,Grass,Novak Federer,John Tsitsipas,15,23,Novak Federer,"7-6, 6-3, 6-0, 7-6",112
+M0990,French Open,2003,First Round,Clay,Andy Djokovic,Boris Tsitsipas,81,90,Andy Djokovic,"6-4, 6-3, 6-3, 6-4, 6-4",184
+M0991,French Open,2000,Third Round,Clay,Stefanos Murray,Stefanos Nadal,27,34,Stefanos Murray,"6-3, 6-1, 6-3, 6-3, 6-3",195
+M0992,French Open,2022,Final,Clay,Pete Djokovic,Daniil Becker,39,85,Pete Djokovic,"7-6, 7-5, 7-5, 6-4",143
+M0993,US Open,2022,Third Round,Grass,Roger Djokovic,Pete Alcaraz,76,83,Roger Djokovic,"7-5, 6-2, 6-3, 6-0, 6-4",142
+M0994,US Open,2012,Third Round,Hard,Pete Becker,Boris Becker,2,27,Pete Becker,"7-6, 7-6, 6-2, 6-0",141
+M0995,US Open,2004,Third Round,Hard,Daniil Becker,Daniil Federer,49,83,Daniil Becker,"6-2, 6-2, 6-0, 6-3",133
+M0996,US Open,2014,Second Round,Clay,Daniil Federer,Stefanos Alcaraz,31,79,Daniil Federer,"6-3, 6-1, 6-3",163
+M0997,Wimbledon,2005,Second Round,Clay,Roger Djokovic,Rafael Federer,90,93,Roger Djokovic,"7-6, 6-4, 6-4, 6-4, 7-6",206
+M0998,French Open,2013,Third Round,Grass,Boris Tsitsipas,John Murray,60,73,Boris Tsitsipas,"6-1, 6-3, 6-3",166
+M0999,Australian Open,2013,Third Round,Grass,Pete Alcaraz,Roger Becker,2,43,Pete Alcaraz,"7-5, 6-0, 6-2",137
